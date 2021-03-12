@@ -1,0 +1,3687 @@
+[
+    {
+      "id": "500001",
+      "name": "Клавиатура Razer YDZT3PA",
+      "shortname": "Razer YDZT3PA",
+      "code": "91563-86",
+      "img": "images/content/products/keyboards/Razer-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Razer-big1.jpg",
+        "2": "images/content/products/keyboards/Razer-big2.jpg",
+        "3": "images/content/products/keyboards/Razer-big3.jpg",
+        "4": "images/content/products/keyboards/Razer-big4.jpg",
+        "5": "images/content/products/keyboards/Razer-big5.jpg"
+      },
+      "alt": "Razer YDZT3PA",
+      "price": 5999,
+      "oldprice": false,
+      "rating": 1.9,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": false,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "volumecontrol": true,
+          "stand": false,
+          "defwater": true
+        },
+        "search": {
+          "model": "Razer YDZT3PA",
+          "value": "Razer"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура Razer YDZT3PA отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Razer, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Razer придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Razer EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Razer YDZT3PA достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 2,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500002",
+      "name": "Клавиатура Razer V0NDGVNT",
+      "shortname": "Razer V0NDGVNT",
+      "code": "80806-50",
+      "img": "images/content/products/keyboards/Razer-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Razer-big1.jpg",
+        "2": "images/content/products/keyboards/Razer-big2.jpg",
+        "3": "images/content/products/keyboards/Razer-big3.jpg",
+        "4": "images/content/products/keyboards/Razer-big4.jpg",
+        "5": "images/content/products/keyboards/Razer-big5.jpg"
+      },
+      "alt": "Razer V0NDGVNT",
+      "price": 10999,
+      "oldprice": 15999,
+      "rating": 2.4,
+      "presence": false,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": false,
+          "order": false,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": true,
+          "new": false,
+          "hit": true,
+          "russia": true,
+          "germany": false,
+          "china": false,
+          "usa": false,
+          "volumecontrol": true,
+          "stand": false,
+          "defwater": false
+        },
+        "search": {
+          "model": "Razer V0NDGVNT",
+          "value": "Razer"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура Razer V0NDGVNT отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Razer, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Razer придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Razer EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Razer V0NDGVNT достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 4,
+        "Самара, ул. Дачная 141": 3,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "500003",
+      "name": "Клавиатура Defender ERKIX77",
+      "shortname": "Defender ERKIX77",
+      "code": "95219-52",
+      "img": "images/content/products/keyboards/Defender-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Defender-big1.jpg",
+        "2": "images/content/products/keyboards/Defender-big2.jpg",
+        "3": "images/content/products/keyboards/Defender-big3.jpg",
+        "4": "images/content/products/keyboards/Defender-big4.jpg",
+        "5": "images/content/products/keyboards/Defender-big5.jpg"
+      },
+      "alt": "Defender ERKIX77",
+      "price": 7999,
+      "oldprice": false,
+      "rating": 1.1,
+      "presence": false,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": false,
+          "order": true,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": false,
+          "new": false,
+          "hit": true,
+          "russia": true,
+          "germany": false,
+          "china": false,
+          "usa": false,
+          "volumecontrol": false,
+          "stand": false,
+          "defwater": true
+        },
+        "search": {
+          "model": "Defender ERKIX77",
+          "value": "Defender"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура Defender ERKIX77 отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Defender, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Defender придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Defender EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Defender ERKIX77 достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 2,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500004",
+      "name": "Клавиатура Dexp 1IIO59P6",
+      "shortname": "Dexp 1IIO59P6",
+      "code": "10000-46",
+      "img": "images/content/products/keyboards/Dexp-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Dexp-big1.jpg",
+        "2": "images/content/products/keyboards/Dexp-big2.jpg",
+        "3": "images/content/products/keyboards/Dexp-big3.jpg",
+        "4": "images/content/products/keyboards/Dexp-big4.jpg",
+        "5": "images/content/products/keyboards/Dexp-big5.jpg"
+      },
+      "alt": "Dexp 1IIO59P6",
+      "price": 5999,
+      "oldprice": false,
+      "rating": 2.9,
+      "presence": false,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": false,
+          "order": false,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": false,
+          "new": false,
+          "hit": false,
+          "russia": true,
+          "germany": false,
+          "china": false,
+          "usa": false,
+          "volumecontrol": false,
+          "stand": false,
+          "defwater": false
+        },
+        "search": {
+          "model": "Dexp 1IIO59P6",
+          "value": "Dexp"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура Dexp 1IIO59P6 отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Dexp, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Dexp придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Dexp EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Dexp 1IIO59P6 достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 0,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500005",
+      "name": "Клавиатура Defender RN1GKWDZS",
+      "shortname": "Defender RN1GKWDZS",
+      "code": "86286-41",
+      "img": "images/content/products/keyboards/Defender-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Defender-big1.jpg",
+        "2": "images/content/products/keyboards/Defender-big2.jpg",
+        "3": "images/content/products/keyboards/Defender-big3.jpg",
+        "4": "images/content/products/keyboards/Defender-big4.jpg",
+        "5": "images/content/products/keyboards/Defender-big5.jpg"
+      },
+      "alt": "Defender RN1GKWDZS",
+      "price": 8999,
+      "oldprice": 13999,
+      "rating": 2.7,
+      "presence": false,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": false,
+          "order": true,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": true,
+          "new": false,
+          "hit": true,
+          "russia": false,
+          "germany": true,
+          "china": false,
+          "usa": false,
+          "volumecontrol": false,
+          "stand": true,
+          "defwater": true
+        },
+        "search": {
+          "model": "Defender RN1GKWDZS",
+          "value": "Defender"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура Defender RN1GKWDZS отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Defender, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Defender придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Defender EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Defender RN1GKWDZS достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 2,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500006",
+      "name": "Клавиатура A4Tech COOXQCN",
+      "shortname": "A4Tech COOXQCN",
+      "code": "58169-96",
+      "img": "images/content/products/keyboards/A4Tech-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/A4Tech-big1.jpg",
+        "2": "images/content/products/keyboards/A4Tech-big2.jpg",
+        "3": "images/content/products/keyboards/A4Tech-big3.jpg",
+        "4": "images/content/products/keyboards/A4Tech-big4.jpg",
+        "5": "images/content/products/keyboards/A4Tech-big5.jpg"
+      },
+      "alt": "A4Tech COOXQCN",
+      "price": 11999,
+      "oldprice": 16999,
+      "rating": 1.1,
+      "presence": false,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": false,
+          "order": false,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": true,
+          "new": true,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "volumecontrol": false,
+          "stand": true,
+          "defwater": true
+        },
+        "search": {
+          "model": "A4Tech COOXQCN",
+          "value": "A4Tech"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура A4Tech COOXQCN отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями A4Tech, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками A4Tech придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО A4Tech EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура A4Tech COOXQCN достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 1,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500007",
+      "name": "Клавиатура HyperX MP29H1L3H",
+      "shortname": "HyperX MP29H1L3H",
+      "code": "21005-69",
+      "img": "images/content/products/keyboards/HyperX-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/HyperX-big1.jpg",
+        "2": "images/content/products/keyboards/HyperX-big2.jpg",
+        "3": "images/content/products/keyboards/HyperX-big3.jpg",
+        "4": "images/content/products/keyboards/HyperX-big4.jpg",
+        "5": "images/content/products/keyboards/HyperX-big5.jpg"
+      },
+      "alt": "HyperX MP29H1L3H",
+      "price": 11999,
+      "oldprice": false,
+      "rating": 4.4,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": false,
+          "new": true,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "volumecontrol": true,
+          "stand": true,
+          "defwater": false
+        },
+        "search": {
+          "model": "HyperX MP29H1L3H",
+          "value": "HyperX"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура HyperX MP29H1L3H отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями HyperX, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками HyperX придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО HyperX EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура HyperX MP29H1L3H достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 0,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500008",
+      "name": "Клавиатура SteelSeries APEX M750",
+      "shortname": "SteelSeries APEX M750",
+      "code": "34953-25",
+      "img": "images/content/products/keyboards/SteelSeries-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/SteelSeries-big1.jpg",
+        "2": "images/content/products/keyboards/SteelSeries-big2.jpg",
+        "3": "images/content/products/keyboards/SteelSeries-big3.jpg",
+        "4": "images/content/products/keyboards/SteelSeries-big4.jpg",
+        "5": "images/content/products/keyboards/SteelSeries-big5.jpg"
+      },
+      "alt": "SteelSeries APEX M750",
+      "price": 12999,
+      "oldprice": 13999,
+      "rating": 4.9,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": true,
+          "new": true,
+          "hit": false,
+          "russia": true,
+          "germany": false,
+          "china": false,
+          "usa": false,
+          "volumecontrol": false,
+          "stand": false,
+          "defwater": false
+        },
+        "search": {
+          "model": "SteelSeries ATOSDH81",
+          "value": "SteelSeries"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура SteelSeries ATOSDH81 отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями SteelSeries, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками SteelSeries придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО SteelSeries EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура SteelSeries ATOSDH81 достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 1,
+        "Самара, ул. Дачная 141": 3,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "500009",
+      "name": "Клавиатура Razer BlackWidow V3 Pro",
+      "shortname": "Razer BlackWidow V3 Pro",
+      "code": "20687-13",
+      "img": "images/content/products/keyboards/Razer-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Razer-big1.jpg",
+        "2": "images/content/products/keyboards/Razer-big2.jpg",
+        "3": "images/content/products/keyboards/Razer-big3.jpg",
+        "4": "images/content/products/keyboards/Razer-big4.jpg",
+        "5": "images/content/products/keyboards/Razer-big5.jpg"
+      },
+      "alt": "Razer BlackWidow V3 Pro",
+      "price": 20999,
+      "oldprice": false,
+      "rating": 4.9,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": false,
+          "new": true,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "volumecontrol": false,
+          "stand": false,
+          "defwater": true
+        },
+        "search": {
+          "model": "Razer 2BCT7M7",
+          "value": "Razer"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура Razer 2BCT7M7 отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Razer, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Razer придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Razer EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Razer 2BCT7M7 достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 0,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500010",
+      "name": "Клавиатура Defender WJF6S4Q8",
+      "shortname": "Defender WJF6S4Q8",
+      "code": "57153-81",
+      "img": "images/content/products/keyboards/Defender-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Defender-big1.jpg",
+        "2": "images/content/products/keyboards/Defender-big2.jpg",
+        "3": "images/content/products/keyboards/Defender-big3.jpg",
+        "4": "images/content/products/keyboards/Defender-big4.jpg",
+        "5": "images/content/products/keyboards/Defender-big5.jpg"
+      },
+      "alt": "Defender WJF6S4Q8",
+      "price": 4999,
+      "oldprice": false,
+      "rating": 1.2,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": false,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": true,
+          "china": false,
+          "usa": false,
+          "volumecontrol": false,
+          "stand": true,
+          "defwater": true
+        },
+        "search": {
+          "model": "Defender WJF6S4Q8",
+          "value": "Defender"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура Defender WJF6S4Q8 отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Defender, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Defender придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Defender EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Defender WJF6S4Q8 достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 1,
+        "Самара, ул. Дачная 141": 3,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500011",
+      "name": "Клавиатура Corsair 520YTH78T",
+      "shortname": "Corsair 520YTH78T",
+      "code": "99933-91",
+      "img": "images/content/products/keyboards/Corsair-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Corsair-big1.jpg",
+        "2": "images/content/products/keyboards/Corsair-big2.jpg",
+        "3": "images/content/products/keyboards/Corsair-big3.jpg",
+        "4": "images/content/products/keyboards/Corsair-big4.jpg",
+        "5": "images/content/products/keyboards/Corsair-big5.jpg"
+      },
+      "alt": "Corsair 520YTH78T",
+      "price": 6999,
+      "oldprice": 11999,
+      "rating": 4.4,
+      "presence": false,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": false,
+          "order": false,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": true,
+          "new": false,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "volumecontrol": true,
+          "stand": false,
+          "defwater": true
+        },
+        "search": {
+          "model": "Corsair 520YTH78T",
+          "value": "Corsair"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура Corsair 520YTH78T отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Corsair, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Corsair придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Corsair EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Corsair 520YTH78T достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 2,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "500012",
+      "name": "Клавиатура HyperX Alloy Elite",
+      "shortname": "HyperX Alloy Elite",
+      "code": "89722-28",
+      "img": "images/content/products/keyboards/HyperX-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/HyperX-big1.jpg",
+        "2": "images/content/products/keyboards/HyperX-big2.jpg",
+        "3": "images/content/products/keyboards/HyperX-big3.jpg",
+        "4": "images/content/products/keyboards/HyperX-big4.jpg",
+        "5": "images/content/products/keyboards/HyperX-big5.jpg"
+      },
+      "alt": "HyperX Alloy Elite",
+      "price": 13999,
+      "oldprice": false,
+      "rating": 4.9,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": false,
+          "new": false,
+          "hit": true,
+          "russia": false,
+          "germany": true,
+          "china": false,
+          "usa": false,
+          "volumecontrol": true,
+          "stand": false,
+          "defwater": false
+        },
+        "search": {
+          "model": "HyperX OSLE61MDB",
+          "value": "HyperX"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура HyperX OSLE61MDB отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями HyperX, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками HyperX придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО HyperX EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура HyperX OSLE61MDB достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 5,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500013",
+      "name": "Клавиатура Defender WAG0V2S9",
+      "shortname": "Defender WAG0V2S9",
+      "code": "20545-14",
+      "img": "images/content/products/keyboards/Defender-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Defender-big1.jpg",
+        "2": "images/content/products/keyboards/Defender-big2.jpg",
+        "3": "images/content/products/keyboards/Defender-big3.jpg",
+        "4": "images/content/products/keyboards/Defender-big4.jpg",
+        "5": "images/content/products/keyboards/Defender-big5.jpg"
+      },
+      "alt": "Defender WAG0V2S9",
+      "price": 9999,
+      "oldprice": false,
+      "rating": 2.6,
+      "presence": false,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": false,
+          "order": false,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": false,
+          "new": false,
+          "hit": true,
+          "russia": true,
+          "germany": false,
+          "china": false,
+          "usa": false,
+          "volumecontrol": true,
+          "stand": false,
+          "defwater": false
+        },
+        "search": {
+          "model": "Defender WAG0V2S9",
+          "value": "Defender"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура Defender WAG0V2S9 отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Defender, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Defender придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Defender EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Defender WAG0V2S9 достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 3,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500014",
+      "name": "Клавиатура SteelSeries YQQ6Y0U",
+      "shortname": "SteelSeries YQQ6Y0U",
+      "code": "32084-61",
+      "img": "images/content/products/keyboards/SteelSeries-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/SteelSeries-big1.jpg",
+        "2": "images/content/products/keyboards/SteelSeries-big2.jpg",
+        "3": "images/content/products/keyboards/SteelSeries-big3.jpg",
+        "4": "images/content/products/keyboards/SteelSeries-big4.jpg",
+        "5": "images/content/products/keyboards/SteelSeries-big5.jpg"
+      },
+      "alt": "SteelSeries YQQ6Y0U",
+      "price": 5999,
+      "oldprice": 10999,
+      "rating": 1.7,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": true,
+          "new": false,
+          "hit": true,
+          "russia": true,
+          "germany": false,
+          "china": false,
+          "usa": false,
+          "volumecontrol": true,
+          "stand": false,
+          "defwater": true
+        },
+        "search": {
+          "model": "SteelSeries YQQ6Y0U",
+          "value": "SteelSeries"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура SteelSeries YQQ6Y0U отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями SteelSeries, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками SteelSeries придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО SteelSeries EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура SteelSeries YQQ6Y0U достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 2,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500015",
+      "name": "Клавиатура Defender J8FRADF",
+      "shortname": "Defender J8FRADF",
+      "code": "13140-57",
+      "img": "images/content/products/keyboards/Defender-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Defender-big1.jpg",
+        "2": "images/content/products/keyboards/Defender-big2.jpg",
+        "3": "images/content/products/keyboards/Defender-big3.jpg",
+        "4": "images/content/products/keyboards/Defender-big4.jpg",
+        "5": "images/content/products/keyboards/Defender-big5.jpg"
+      },
+      "alt": "Defender J8FRADF",
+      "price": 8999,
+      "oldprice": 13999,
+      "rating": 3.2,
+      "presence": false,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": false,
+          "order": true,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": true,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "volumecontrol": false,
+          "stand": true,
+          "defwater": false
+        },
+        "search": {
+          "model": "Defender J8FRADF",
+          "value": "Defender"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура Defender J8FRADF отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Defender, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Defender придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Defender EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Defender J8FRADF достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 2,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "500016",
+      "name": "Клавиатура Dexp 1M86WJ5JZ",
+      "shortname": "Dexp 1M86WJ5JZ",
+      "code": "27610-11",
+      "img": "images/content/products/keyboards/Dexp-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Dexp-big1.jpg",
+        "2": "images/content/products/keyboards/Dexp-big2.jpg",
+        "3": "images/content/products/keyboards/Dexp-big3.jpg",
+        "4": "images/content/products/keyboards/Dexp-big4.jpg",
+        "5": "images/content/products/keyboards/Dexp-big5.jpg"
+      },
+      "alt": "Dexp 1M86WJ5JZ",
+      "price": 5999,
+      "oldprice": 10999,
+      "rating": 4,
+      "presence": false,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": false,
+          "order": true,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": true,
+          "new": false,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "volumecontrol": false,
+          "stand": false,
+          "defwater": false
+        },
+        "search": {
+          "model": "Dexp 1M86WJ5JZ",
+          "value": "Dexp"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура Dexp 1M86WJ5JZ отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Dexp, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Dexp придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Dexp EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Dexp 1M86WJ5JZ достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 0,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "500017",
+      "name": "Клавиатура Cougar HHYSDTHLJ",
+      "shortname": "Cougar HHYSDTHLJ",
+      "code": "23209-68",
+      "img": "images/content/products/keyboards/Cougar-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Cougar-big1.jpg",
+        "2": "images/content/products/keyboards/Cougar-big2.jpg",
+        "3": "images/content/products/keyboards/Cougar-big3.jpg",
+        "4": "images/content/products/keyboards/Cougar-big4.jpg",
+        "5": "images/content/products/keyboards/Cougar-big5.jpg"
+      },
+      "alt": "Cougar HHYSDTHLJ",
+      "price": 5999,
+      "oldprice": 10999,
+      "rating": 2.8,
+      "presence": false,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": false,
+          "order": false,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": true,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "volumecontrol": false,
+          "stand": false,
+          "defwater": true
+        },
+        "search": {
+          "model": "Cougar HHYSDTHLJ",
+          "value": "Cougar"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура Cougar HHYSDTHLJ отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Cougar, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Cougar придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Cougar EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Cougar HHYSDTHLJ достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 2,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500018",
+      "name": "Клавиатура Asus TUF Gaming K7",
+      "shortname": "Asus TUF Gaming K7",
+      "code": "50511-48",
+      "img": "images/content/products/keyboards/Asus-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Asus-big1.jpg",
+        "2": "images/content/products/keyboards/Asus-big2.jpg",
+        "3": "images/content/products/keyboards/Asus-big3.jpg",
+        "4": "images/content/products/keyboards/Asus-big4.jpg",
+        "5": "images/content/products/keyboards/Asus-big5.jpg"
+      },
+      "alt": "Asus TUF Gaming K7",
+      "price": 7999,
+      "oldprice": 8999,
+      "rating": 4.8,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": true,
+          "new": true,
+          "hit": true,
+          "russia": false,
+          "germany": true,
+          "china": false,
+          "usa": false,
+          "volumecontrol": false,
+          "stand": true,
+          "defwater": false
+        },
+        "search": {
+          "model": "Asus DZYCM2S",
+          "value": "Asus"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура Asus DZYCM2S отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Asus, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Asus придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Asus EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Asus DZYCM2S достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 2,
+        "Самара, ул. Дачная 141": 3,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500019",
+      "name": "Клавиатура HyperX XW7PSUH",
+      "shortname": "HyperX XW7PSUH",
+      "code": "71071-17",
+      "img": "images/content/products/keyboards/HyperX-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/HyperX-big1.jpg",
+        "2": "images/content/products/keyboards/HyperX-big2.jpg",
+        "3": "images/content/products/keyboards/HyperX-big3.jpg",
+        "4": "images/content/products/keyboards/HyperX-big4.jpg",
+        "5": "images/content/products/keyboards/HyperX-big5.jpg"
+      },
+      "alt": "HyperX XW7PSUH",
+      "price": 9999,
+      "oldprice": false,
+      "rating": 1.8,
+      "presence": false,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": false,
+          "order": false,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": false,
+          "new": true,
+          "hit": true,
+          "russia": true,
+          "germany": false,
+          "china": false,
+          "usa": false,
+          "volumecontrol": true,
+          "stand": true,
+          "defwater": true
+        },
+        "search": {
+          "model": "HyperX XW7PSUH",
+          "value": "HyperX"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура HyperX XW7PSUH отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями HyperX, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками HyperX придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО HyperX EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура HyperX XW7PSUH достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 3,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "500020",
+      "name": "Клавиатура Razer 8YX6ZCGL",
+      "shortname": "Razer 8YX6ZCGL",
+      "code": "89396-82",
+      "img": "images/content/products/keyboards/Razer-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Razer-big1.jpg",
+        "2": "images/content/products/keyboards/Razer-big2.jpg",
+        "3": "images/content/products/keyboards/Razer-big3.jpg",
+        "4": "images/content/products/keyboards/Razer-big4.jpg",
+        "5": "images/content/products/keyboards/Razer-big5.jpg"
+      },
+      "alt": "Razer 8YX6ZCGL",
+      "price": 8999,
+      "oldprice": 13999,
+      "rating": 3.9,
+      "presence": false,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": false,
+          "order": true,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": true,
+          "new": false,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "volumecontrol": false,
+          "stand": true,
+          "defwater": false
+        },
+        "search": {
+          "model": "Razer 8YX6ZCGL",
+          "value": "Razer"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура Razer 8YX6ZCGL отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Razer, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Razer придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Razer EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Razer 8YX6ZCGL достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 4,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500021",
+      "name": "Клавиатура Dexp N03BRW8",
+      "shortname": "Dexp N03BRW8",
+      "code": "58383-58",
+      "img": "images/content/products/keyboards/Dexp-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Dexp-big1.jpg",
+        "2": "images/content/products/keyboards/Dexp-big2.jpg",
+        "3": "images/content/products/keyboards/Dexp-big3.jpg",
+        "4": "images/content/products/keyboards/Dexp-big4.jpg",
+        "5": "images/content/products/keyboards/Dexp-big5.jpg"
+      },
+      "alt": "Dexp N03BRW8",
+      "price": 9999,
+      "oldprice": false,
+      "rating": 2.3,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": false,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "volumecontrol": true,
+          "stand": false,
+          "defwater": true
+        },
+        "search": {
+          "model": "Dexp N03BRW8",
+          "value": "Dexp"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура Dexp N03BRW8 отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Dexp, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Dexp придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Dexp EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Dexp N03BRW8 достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 3,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500022",
+      "name": "Клавиатура SteelSeries 52LSHBO",
+      "shortname": "SteelSeries 52LSHBO",
+      "code": "21658-30",
+      "img": "images/content/products/keyboards/SteelSeries-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/SteelSeries-big1.jpg",
+        "2": "images/content/products/keyboards/SteelSeries-big2.jpg",
+        "3": "images/content/products/keyboards/SteelSeries-big3.jpg",
+        "4": "images/content/products/keyboards/SteelSeries-big4.jpg",
+        "5": "images/content/products/keyboards/SteelSeries-big5.jpg"
+      },
+      "alt": "SteelSeries 52LSHBO",
+      "price": 12999,
+      "oldprice": 17999,
+      "rating": 1.7,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": true,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": true,
+          "china": false,
+          "usa": false,
+          "volumecontrol": true,
+          "stand": true,
+          "defwater": true
+        },
+        "search": {
+          "model": "SteelSeries 52LSHBO",
+          "value": "SteelSeries"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура SteelSeries 52LSHBO отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями SteelSeries, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками SteelSeries придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО SteelSeries EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура SteelSeries 52LSHBO достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 4,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500023",
+      "name": "Клавиатура Asus SAWBHRZ8S",
+      "shortname": "Asus SAWBHRZ8S",
+      "code": "95920-89",
+      "img": "images/content/products/keyboards/Asus-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Asus-big1.jpg",
+        "2": "images/content/products/keyboards/Asus-big2.jpg",
+        "3": "images/content/products/keyboards/Asus-big3.jpg",
+        "4": "images/content/products/keyboards/Asus-big4.jpg",
+        "5": "images/content/products/keyboards/Asus-big5.jpg"
+      },
+      "alt": "Asus SAWBHRZ8S",
+      "price": 13999,
+      "oldprice": 18999,
+      "rating": 1.3,
+      "presence": false,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": false,
+          "order": false,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": true,
+          "new": false,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "volumecontrol": true,
+          "stand": false,
+          "defwater": true
+        },
+        "search": {
+          "model": "Asus SAWBHRZ8S",
+          "value": "Asus"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура Asus SAWBHRZ8S отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Asus, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Asus придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Asus EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Asus SAWBHRZ8S достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 3,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500024",
+      "name": "Клавиатура Dexp WXD2TTC",
+      "shortname": "Dexp WXD2TTC",
+      "code": "40124-21",
+      "img": "images/content/products/keyboards/Dexp-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Dexp-big1.jpg",
+        "2": "images/content/products/keyboards/Dexp-big2.jpg",
+        "3": "images/content/products/keyboards/Dexp-big3.jpg",
+        "4": "images/content/products/keyboards/Dexp-big4.jpg",
+        "5": "images/content/products/keyboards/Dexp-big5.jpg"
+      },
+      "alt": "Dexp WXD2TTC",
+      "price": 6999,
+      "oldprice": false,
+      "rating": 2.7,
+      "presence": false,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": false,
+          "order": true,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": false,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "volumecontrol": false,
+          "stand": false,
+          "defwater": false
+        },
+        "search": {
+          "model": "Dexp WXD2TTC",
+          "value": "Dexp"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура Dexp WXD2TTC отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Dexp, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Dexp придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Dexp EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Dexp WXD2TTC достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 1,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500025",
+      "name": "Клавиатура Corsair K70 RGB MK.2",
+      "shortname": "Corsair K70 RGB MK.2",
+      "code": "58541-39",
+      "img": "images/content/products/keyboards/Corsair-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Corsair-big1.jpg",
+        "2": "images/content/products/keyboards/Corsair-big2.jpg",
+        "3": "images/content/products/keyboards/Corsair-big3.jpg",
+        "4": "images/content/products/keyboards/Corsair-big4.jpg",
+        "5": "images/content/products/keyboards/Corsair-big5.jpg"
+      },
+      "alt": "Corsair K70 RGB MK.2",
+      "price": 5999,
+      "oldprice": 6999,
+      "rating": 4.8,
+      "presence": false,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": false,
+          "order": true,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": true,
+          "new": false,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "volumecontrol": false,
+          "stand": true,
+          "defwater": true
+        },
+        "search": {
+          "model": "Corsair 1BIUJL8I",
+          "value": "Corsair"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура Corsair 1BIUJL8I отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Corsair, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Corsair придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Corsair EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Corsair 1BIUJL8I достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 1,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "500026",
+      "name": "Клавиатура Defender 81KADD5QL",
+      "shortname": "Defender 81KADD5QL",
+      "code": "77498-22",
+      "img": "images/content/products/keyboards/Defender-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Defender-big1.jpg",
+        "2": "images/content/products/keyboards/Defender-big2.jpg",
+        "3": "images/content/products/keyboards/Defender-big3.jpg",
+        "4": "images/content/products/keyboards/Defender-big4.jpg",
+        "5": "images/content/products/keyboards/Defender-big5.jpg"
+      },
+      "alt": "Defender 81KADD5QL",
+      "price": 10999,
+      "oldprice": false,
+      "rating": 2.8,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": false,
+          "new": true,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "volumecontrol": true,
+          "stand": true,
+          "defwater": true
+        },
+        "search": {
+          "model": "Defender 81KADD5QL",
+          "value": "Defender"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура Defender 81KADD5QL отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Defender, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Defender придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Defender EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Defender 81KADD5QL достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 5,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "500027",
+      "name": "Клавиатура Dexp ZOJ25SD",
+      "shortname": "Dexp ZOJ25SD",
+      "code": "18445-72",
+      "img": "images/content/products/keyboards/Dexp-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Dexp-big1.jpg",
+        "2": "images/content/products/keyboards/Dexp-big2.jpg",
+        "3": "images/content/products/keyboards/Dexp-big3.jpg",
+        "4": "images/content/products/keyboards/Dexp-big4.jpg",
+        "5": "images/content/products/keyboards/Dexp-big5.jpg"
+      },
+      "alt": "Dexp ZOJ25SD",
+      "price": 11999,
+      "oldprice": false,
+      "rating": 3.9,
+      "presence": false,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": false,
+          "order": false,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": false,
+          "new": false,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "volumecontrol": false,
+          "stand": false,
+          "defwater": false
+        },
+        "search": {
+          "model": "Dexp ZOJ25SD",
+          "value": "Dexp"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура Dexp ZOJ25SD отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Dexp, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Dexp придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Dexp EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Dexp ZOJ25SD достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 3,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500028",
+      "name": "Клавиатура SteelSeries P6EPSF3D",
+      "shortname": "SteelSeries P6EPSF3D",
+      "code": "22761-32",
+      "img": "images/content/products/keyboards/SteelSeries-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/SteelSeries-big1.jpg",
+        "2": "images/content/products/keyboards/SteelSeries-big2.jpg",
+        "3": "images/content/products/keyboards/SteelSeries-big3.jpg",
+        "4": "images/content/products/keyboards/SteelSeries-big4.jpg",
+        "5": "images/content/products/keyboards/SteelSeries-big5.jpg"
+      },
+      "alt": "SteelSeries P6EPSF3D",
+      "price": 13999,
+      "oldprice": false,
+      "rating": 2.2,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": false,
+          "new": false,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "volumecontrol": false,
+          "stand": true,
+          "defwater": true
+        },
+        "search": {
+          "model": "SteelSeries P6EPSF3D",
+          "value": "SteelSeries"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура SteelSeries P6EPSF3D отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями SteelSeries, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками SteelSeries придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО SteelSeries EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура SteelSeries P6EPSF3D достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 5,
+        "Самара, ул. Дачная 141": 3,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "500029",
+      "name": "Клавиатура Cougar V5XMXE1B",
+      "shortname": "Cougar V5XMXE1B",
+      "code": "73064-72",
+      "img": "images/content/products/keyboards/Cougar-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Cougar-big1.jpg",
+        "2": "images/content/products/keyboards/Cougar-big2.jpg",
+        "3": "images/content/products/keyboards/Cougar-big3.jpg",
+        "4": "images/content/products/keyboards/Cougar-big4.jpg",
+        "5": "images/content/products/keyboards/Cougar-big5.jpg"
+      },
+      "alt": "Cougar V5XMXE1B",
+      "price": 10999,
+      "oldprice": 15999,
+      "rating": 2.7,
+      "presence": false,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": false,
+          "order": false,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": true,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "volumecontrol": true,
+          "stand": false,
+          "defwater": true
+        },
+        "search": {
+          "model": "Cougar V5XMXE1B",
+          "value": "Cougar"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура Cougar V5XMXE1B отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Cougar, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Cougar придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Cougar EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Cougar V5XMXE1B достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 3,
+        "Самара, ул. Дачная 141": 3,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "500030",
+      "name": "Клавиатура SteelSeries QWI5UG0S2",
+      "shortname": "SteelSeries QWI5UG0S2",
+      "code": "59011-11",
+      "img": "images/content/products/keyboards/SteelSeries-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/SteelSeries-big1.jpg",
+        "2": "images/content/products/keyboards/SteelSeries-big2.jpg",
+        "3": "images/content/products/keyboards/SteelSeries-big3.jpg",
+        "4": "images/content/products/keyboards/SteelSeries-big4.jpg",
+        "5": "images/content/products/keyboards/SteelSeries-big5.jpg"
+      },
+      "alt": "SteelSeries QWI5UG0S2",
+      "price": 4999,
+      "oldprice": 9999,
+      "rating": 2,
+      "presence": false,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": false,
+          "order": false,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": true,
+          "new": true,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "volumecontrol": true,
+          "stand": false,
+          "defwater": false
+        },
+        "search": {
+          "model": "SteelSeries QWI5UG0S2",
+          "value": "SteelSeries"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура SteelSeries QWI5UG0S2 отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями SteelSeries, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками SteelSeries придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО SteelSeries EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура SteelSeries QWI5UG0S2 достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 0,
+        "Самара, ул. Дачная 141": 3,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500031",
+      "name": "Клавиатура Cougar 0HNODW6",
+      "shortname": "Cougar 0HNODW6",
+      "code": "26519-72",
+      "img": "images/content/products/keyboards/Cougar-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Cougar-big1.jpg",
+        "2": "images/content/products/keyboards/Cougar-big2.jpg",
+        "3": "images/content/products/keyboards/Cougar-big3.jpg",
+        "4": "images/content/products/keyboards/Cougar-big4.jpg",
+        "5": "images/content/products/keyboards/Cougar-big5.jpg"
+      },
+      "alt": "Cougar 0HNODW6",
+      "price": 4999,
+      "oldprice": 9999,
+      "rating": 2.6,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": true,
+          "new": false,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "volumecontrol": true,
+          "stand": false,
+          "defwater": false
+        },
+        "search": {
+          "model": "Cougar 0HNODW6",
+          "value": "Cougar"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура Cougar 0HNODW6 отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Cougar, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Cougar придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Cougar EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Cougar 0HNODW6 достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 3,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500032",
+      "name": "Клавиатура A4Tech Bloody B885N",
+      "shortname": "A4Tech Bloody B885N",
+      "code": "16572-64",
+      "img": "images/content/products/keyboards/A4Tech-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/A4Tech-big1.jpg",
+        "2": "images/content/products/keyboards/A4Tech-big2.jpg",
+        "3": "images/content/products/keyboards/A4Tech-big3.jpg",
+        "4": "images/content/products/keyboards/A4Tech-big4.jpg",
+        "5": "images/content/products/keyboards/A4Tech-big5.jpg"
+      },
+      "alt": "A4Tech Bloody B885N",
+      "price": 6999,
+      "oldprice": false,
+      "rating": 4.8,
+      "presence": false,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": false,
+          "order": false,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": false,
+          "new": true,
+          "hit": false,
+          "russia": true,
+          "germany": false,
+          "china": false,
+          "usa": false,
+          "volumecontrol": true,
+          "stand": false,
+          "defwater": false
+        },
+        "search": {
+          "model": "A4Tech 7Z6UCQKU",
+          "value": "A4Tech"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура A4Tech 7Z6UCQKU отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями A4Tech, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками A4Tech придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО A4Tech EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура A4Tech 7Z6UCQKU достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 3,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500033",
+      "name": "Клавиатура Corsair SR9KKTW5",
+      "shortname": "Corsair SR9KKTW5",
+      "code": "41909-17",
+      "img": "images/content/products/keyboards/Corsair-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Corsair-big1.jpg",
+        "2": "images/content/products/keyboards/Corsair-big2.jpg",
+        "3": "images/content/products/keyboards/Corsair-big3.jpg",
+        "4": "images/content/products/keyboards/Corsair-big4.jpg",
+        "5": "images/content/products/keyboards/Corsair-big5.jpg"
+      },
+      "alt": "Corsair SR9KKTW5",
+      "price": 8999,
+      "oldprice": false,
+      "rating": 1,
+      "presence": false,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": false,
+          "order": true,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": false,
+          "new": false,
+          "hit": true,
+          "russia": true,
+          "germany": false,
+          "china": false,
+          "usa": false,
+          "volumecontrol": true,
+          "stand": false,
+          "defwater": false
+        },
+        "search": {
+          "model": "Corsair SR9KKTW5",
+          "value": "Corsair"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура Corsair SR9KKTW5 отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Corsair, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Corsair придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Corsair EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Corsair SR9KKTW5 достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 1,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500034",
+      "name": "Клавиатура Asus 95BV14CS",
+      "shortname": "Asus 95BV14CS",
+      "code": "67206-27",
+      "img": "images/content/products/keyboards/Asus-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Asus-big1.jpg",
+        "2": "images/content/products/keyboards/Asus-big2.jpg",
+        "3": "images/content/products/keyboards/Asus-big3.jpg",
+        "4": "images/content/products/keyboards/Asus-big4.jpg",
+        "5": "images/content/products/keyboards/Asus-big5.jpg"
+      },
+      "alt": "Asus 95BV14CS",
+      "price": 11999,
+      "oldprice": 16999,
+      "rating": 2.6,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": true,
+          "new": true,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "volumecontrol": false,
+          "stand": false,
+          "defwater": true
+        },
+        "search": {
+          "model": "Asus 95BV14CS",
+          "value": "Asus"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура Asus 95BV14CS отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Asus, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Asus придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Asus EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Asus 95BV14CS достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 5,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "500035",
+      "name": "Клавиатура Asus A5T0O7U",
+      "shortname": "Asus A5T0O7U",
+      "code": "80286-15",
+      "img": "images/content/products/keyboards/Asus-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Asus-big1.jpg",
+        "2": "images/content/products/keyboards/Asus-big2.jpg",
+        "3": "images/content/products/keyboards/Asus-big3.jpg",
+        "4": "images/content/products/keyboards/Asus-big4.jpg",
+        "5": "images/content/products/keyboards/Asus-big5.jpg"
+      },
+      "alt": "Asus A5T0O7U",
+      "price": 7999,
+      "oldprice": 12999,
+      "rating": 4.6,
+      "presence": false,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": false,
+          "order": true,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": true,
+          "new": false,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "volumecontrol": true,
+          "stand": true,
+          "defwater": true
+        },
+        "search": {
+          "model": "Asus A5T0O7U",
+          "value": "Asus"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура Asus A5T0O7U отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Asus, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Asus придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Asus EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Asus A5T0O7U достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 3,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500036",
+      "name": "Клавиатура Cougar 700K Evo",
+      "shortname": "Cougar 700K Evo",
+      "code": "25683-87",
+      "img": "images/content/products/keyboards/Cougar-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Cougar-big1.jpg",
+        "2": "images/content/products/keyboards/Cougar-big2.jpg",
+        "3": "images/content/products/keyboards/Cougar-big3.jpg",
+        "4": "images/content/products/keyboards/Cougar-big4.jpg",
+        "5": "images/content/products/keyboards/Cougar-big5.jpg"
+      },
+      "alt": "Cougar 700K Evo",
+      "price": 10999,
+      "oldprice": 11999,
+      "rating": 4.7,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": true,
+          "new": true,
+          "hit": false,
+          "russia": true,
+          "germany": false,
+          "china": false,
+          "usa": false,
+          "volumecontrol": true,
+          "stand": false,
+          "defwater": false
+        },
+        "search": {
+          "model": "Cougar CQ7XN14F",
+          "value": "Cougar"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура Cougar CQ7XN14F отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Cougar, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Cougar придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Cougar EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Cougar CQ7XN14F достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 0,
+        "Самара, ул. Дачная 141": 3,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "500037",
+      "name": "Клавиатура HyperX 1P9TNLAD",
+      "shortname": "HyperX 1P9TNLAD",
+      "code": "48133-59",
+      "img": "images/content/products/keyboards/HyperX-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/HyperX-big1.jpg",
+        "2": "images/content/products/keyboards/HyperX-big2.jpg",
+        "3": "images/content/products/keyboards/HyperX-big3.jpg",
+        "4": "images/content/products/keyboards/HyperX-big4.jpg",
+        "5": "images/content/products/keyboards/HyperX-big5.jpg"
+      },
+      "alt": "HyperX 1P9TNLAD",
+      "price": 8999,
+      "oldprice": false,
+      "rating": 2.1,
+      "presence": false,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": false,
+          "order": true,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": false,
+          "new": false,
+          "hit": true,
+          "russia": false,
+          "germany": true,
+          "china": false,
+          "usa": false,
+          "volumecontrol": true,
+          "stand": false,
+          "defwater": true
+        },
+        "search": {
+          "model": "HyperX 1P9TNLAD",
+          "value": "HyperX"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура HyperX 1P9TNLAD отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями HyperX, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками HyperX придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО HyperX EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура HyperX 1P9TNLAD достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 2,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500038",
+      "name": "Клавиатура Cougar OA3FFPN1M",
+      "shortname": "Cougar OA3FFPN1M",
+      "code": "83343-74",
+      "img": "images/content/products/keyboards/Cougar-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Cougar-big1.jpg",
+        "2": "images/content/products/keyboards/Cougar-big2.jpg",
+        "3": "images/content/products/keyboards/Cougar-big3.jpg",
+        "4": "images/content/products/keyboards/Cougar-big4.jpg",
+        "5": "images/content/products/keyboards/Cougar-big5.jpg"
+      },
+      "alt": "Cougar OA3FFPN1M",
+      "price": 10999,
+      "oldprice": false,
+      "rating": 4,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": false,
+          "new": false,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "volumecontrol": false,
+          "stand": true,
+          "defwater": true
+        },
+        "search": {
+          "model": "Cougar OA3FFPN1M",
+          "value": "Cougar"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура Cougar OA3FFPN1M отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Cougar, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Cougar придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Cougar EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Cougar OA3FFPN1M достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 0,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "500039",
+      "name": "Клавиатура Cougar 4GTYIIE1",
+      "shortname": "Cougar 4GTYIIE1",
+      "code": "83743-83",
+      "img": "images/content/products/keyboards/Cougar-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Cougar-big1.jpg",
+        "2": "images/content/products/keyboards/Cougar-big2.jpg",
+        "3": "images/content/products/keyboards/Cougar-big3.jpg",
+        "4": "images/content/products/keyboards/Cougar-big4.jpg",
+        "5": "images/content/products/keyboards/Cougar-big5.jpg"
+      },
+      "alt": "Cougar 4GTYIIE1",
+      "price": 10999,
+      "oldprice": false,
+      "rating": 3.1,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": false,
+          "new": true,
+          "hit": true,
+          "russia": true,
+          "germany": false,
+          "china": false,
+          "usa": false,
+          "volumecontrol": true,
+          "stand": false,
+          "defwater": false
+        },
+        "search": {
+          "model": "Cougar 4GTYIIE1",
+          "value": "Cougar"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура Cougar 4GTYIIE1 отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Cougar, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Cougar придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Cougar EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Cougar 4GTYIIE1 достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 5,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500040",
+      "name": "Клавиатура Razer 22TM9GU7",
+      "shortname": "Razer 22TM9GU7",
+      "code": "64819-58",
+      "img": "images/content/products/keyboards/Razer-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Razer-big1.jpg",
+        "2": "images/content/products/keyboards/Razer-big2.jpg",
+        "3": "images/content/products/keyboards/Razer-big3.jpg",
+        "4": "images/content/products/keyboards/Razer-big4.jpg",
+        "5": "images/content/products/keyboards/Razer-big5.jpg"
+      },
+      "alt": "Razer 22TM9GU7",
+      "price": 6999,
+      "oldprice": 11999,
+      "rating": 4.4,
+      "presence": false,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": false,
+          "order": true,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": true,
+          "new": false,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "volumecontrol": false,
+          "stand": true,
+          "defwater": true
+        },
+        "search": {
+          "model": "Razer 22TM9GU7",
+          "value": "Razer"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура Razer 22TM9GU7 отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Razer, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Razer придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Razer EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Razer 22TM9GU7 достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 4,
+        "Самара, ул. Дачная 141": 3,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "500041",
+      "name": "Клавиатура Asus 9054QXNH",
+      "shortname": "Asus 9054QXNH",
+      "code": "77803-31",
+      "img": "images/content/products/keyboards/Asus-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Asus-big1.jpg",
+        "2": "images/content/products/keyboards/Asus-big2.jpg",
+        "3": "images/content/products/keyboards/Asus-big3.jpg",
+        "4": "images/content/products/keyboards/Asus-big4.jpg",
+        "5": "images/content/products/keyboards/Asus-big5.jpg"
+      },
+      "alt": "Asus 9054QXNH",
+      "price": 4999,
+      "oldprice": false,
+      "rating": 2.5,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": false,
+          "new": true,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "volumecontrol": true,
+          "stand": false,
+          "defwater": true
+        },
+        "search": {
+          "model": "Asus 9054QXNH",
+          "value": "Asus"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура Asus 9054QXNH отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Asus, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Asus придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Asus EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Asus 9054QXNH достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 0,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "500042",
+      "name": "Клавиатура SteelSeries PZXTK6N",
+      "shortname": "SteelSeries PZXTK6N",
+      "code": "14973-63",
+      "img": "images/content/products/keyboards/SteelSeries-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/SteelSeries-big1.jpg",
+        "2": "images/content/products/keyboards/SteelSeries-big2.jpg",
+        "3": "images/content/products/keyboards/SteelSeries-big3.jpg",
+        "4": "images/content/products/keyboards/SteelSeries-big4.jpg",
+        "5": "images/content/products/keyboards/SteelSeries-big5.jpg"
+      },
+      "alt": "SteelSeries PZXTK6N",
+      "price": 13999,
+      "oldprice": 18999,
+      "rating": 1,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": true,
+          "new": true,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "volumecontrol": false,
+          "stand": true,
+          "defwater": false
+        },
+        "search": {
+          "model": "SteelSeries PZXTK6N",
+          "value": "SteelSeries"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура SteelSeries PZXTK6N отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями SteelSeries, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками SteelSeries придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО SteelSeries EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура SteelSeries PZXTK6N достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 2,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "500043",
+      "name": "Клавиатура SteelSeries UGIGJDDLZ",
+      "shortname": "SteelSeries UGIGJDDLZ",
+      "code": "34095-56",
+      "img": "images/content/products/keyboards/SteelSeries-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/SteelSeries-big1.jpg",
+        "2": "images/content/products/keyboards/SteelSeries-big2.jpg",
+        "3": "images/content/products/keyboards/SteelSeries-big3.jpg",
+        "4": "images/content/products/keyboards/SteelSeries-big4.jpg",
+        "5": "images/content/products/keyboards/SteelSeries-big5.jpg"
+      },
+      "alt": "SteelSeries UGIGJDDLZ",
+      "price": 3999,
+      "oldprice": false,
+      "rating": 1.6,
+      "presence": false,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": false,
+          "order": false,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": false,
+          "new": true,
+          "hit": true,
+          "russia": true,
+          "germany": false,
+          "china": false,
+          "usa": false,
+          "volumecontrol": true,
+          "stand": true,
+          "defwater": true
+        },
+        "search": {
+          "model": "SteelSeries UGIGJDDLZ",
+          "value": "SteelSeries"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура SteelSeries UGIGJDDLZ отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями SteelSeries, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками SteelSeries придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО SteelSeries EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура SteelSeries UGIGJDDLZ достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 1,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "500044",
+      "name": "Клавиатура Asus IRYYYTEVX",
+      "shortname": "Asus IRYYYTEVX",
+      "code": "71444-44",
+      "img": "images/content/products/keyboards/Asus-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Asus-big1.jpg",
+        "2": "images/content/products/keyboards/Asus-big2.jpg",
+        "3": "images/content/products/keyboards/Asus-big3.jpg",
+        "4": "images/content/products/keyboards/Asus-big4.jpg",
+        "5": "images/content/products/keyboards/Asus-big5.jpg"
+      },
+      "alt": "Asus IRYYYTEVX",
+      "price": 5999,
+      "oldprice": false,
+      "rating": 4.1,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": false,
+          "new": false,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "volumecontrol": true,
+          "stand": true,
+          "defwater": false
+        },
+        "search": {
+          "model": "Asus IRYYYTEVX",
+          "value": "Asus"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура Asus IRYYYTEVX отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Asus, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Asus придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Asus EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Asus IRYYYTEVX достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 4,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "500045",
+      "name": "Клавиатура Defender Doom Keeper GK-100DL",
+      "shortname": "Defender Doom Keeper GK-100DL",
+      "code": "65526-55",
+      "img": "images/content/products/keyboards/Defender-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Defender-big1.jpg",
+        "2": "images/content/products/keyboards/Defender-big2.jpg",
+        "3": "images/content/products/keyboards/Defender-big3.jpg",
+        "4": "images/content/products/keyboards/Defender-big4.jpg",
+        "5": "images/content/products/keyboards/Defender-big5.jpg"
+      },
+      "alt": "Defender Doom Keeper GK-100DL",
+      "price": 3999,
+      "oldprice": false,
+      "rating": 4.7,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": false,
+          "new": false,
+          "hit": true,
+          "russia": false,
+          "germany": true,
+          "china": false,
+          "usa": false,
+          "volumecontrol": true,
+          "stand": false,
+          "defwater": true
+        },
+        "search": {
+          "model": "Defender XOMT72C",
+          "value": "Defender"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура Defender XOMT72C отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Defender, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Defender придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Defender EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Defender XOMT72C достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 5,
+        "Самара, ул. Дачная 141": 3,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500046",
+      "name": "Клавиатура Defender IOLC7TBM",
+      "shortname": "Defender IOLC7TBM",
+      "code": "96177-21",
+      "img": "images/content/products/keyboards/Defender-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Defender-big1.jpg",
+        "2": "images/content/products/keyboards/Defender-big2.jpg",
+        "3": "images/content/products/keyboards/Defender-big3.jpg",
+        "4": "images/content/products/keyboards/Defender-big4.jpg",
+        "5": "images/content/products/keyboards/Defender-big5.jpg"
+      },
+      "alt": "Defender IOLC7TBM",
+      "price": 12999,
+      "oldprice": 17999,
+      "rating": 3.2,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": true,
+          "new": false,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "volumecontrol": false,
+          "stand": true,
+          "defwater": true
+        },
+        "search": {
+          "model": "Defender IOLC7TBM",
+          "value": "Defender"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура Defender IOLC7TBM отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Defender, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Defender придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Defender EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Defender IOLC7TBM достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 0,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500047",
+      "name": "Клавиатура Corsair D0A84F3Y3",
+      "shortname": "Corsair D0A84F3Y3",
+      "code": "40541-66",
+      "img": "images/content/products/keyboards/Corsair-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Corsair-big1.jpg",
+        "2": "images/content/products/keyboards/Corsair-big2.jpg",
+        "3": "images/content/products/keyboards/Corsair-big3.jpg",
+        "4": "images/content/products/keyboards/Corsair-big4.jpg",
+        "5": "images/content/products/keyboards/Corsair-big5.jpg"
+      },
+      "alt": "Corsair D0A84F3Y3",
+      "price": 5999,
+      "oldprice": false,
+      "rating": 2.9,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": false,
+          "new": true,
+          "hit": false,
+          "russia": true,
+          "germany": false,
+          "china": false,
+          "usa": false,
+          "volumecontrol": true,
+          "stand": true,
+          "defwater": false
+        },
+        "search": {
+          "model": "Corsair D0A84F3Y3",
+          "value": "Corsair"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура Corsair D0A84F3Y3 отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Corsair, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Corsair придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Corsair EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Corsair D0A84F3Y3 достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 5,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500048",
+      "name": "Клавиатура Razer 4LQHVTD",
+      "shortname": "Razer 4LQHVTD",
+      "code": "89662-43",
+      "img": "images/content/products/keyboards/Razer-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Razer-big1.jpg",
+        "2": "images/content/products/keyboards/Razer-big2.jpg",
+        "3": "images/content/products/keyboards/Razer-big3.jpg",
+        "4": "images/content/products/keyboards/Razer-big4.jpg",
+        "5": "images/content/products/keyboards/Razer-big5.jpg"
+      },
+      "alt": "Razer 4LQHVTD",
+      "price": 3999,
+      "oldprice": 8999,
+      "rating": 1.9,
+      "presence": false,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "membrane",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": false,
+          "order": true,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": true,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": true,
+          "china": false,
+          "usa": false,
+          "volumecontrol": false,
+          "stand": true,
+          "defwater": true
+        },
+        "search": {
+          "model": "Razer 4LQHVTD",
+          "value": "Razer"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "мембранная",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура Razer 4LQHVTD отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Razer, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Razer придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Razer EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Razer 4LQHVTD достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 5,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "500049",
+      "name": "Клавиатура Dexp Black Sword RGB",
+      "shortname": "Dexp Black Sword RGB",
+      "code": "52997-99",
+      "img": "images/content/products/keyboards/Dexp-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Dexp-big1.jpg",
+        "2": "images/content/products/keyboards/Dexp-big2.jpg",
+        "3": "images/content/products/keyboards/Dexp-big3.jpg",
+        "4": "images/content/products/keyboards/Dexp-big4.jpg",
+        "5": "images/content/products/keyboards/Dexp-big5.jpg"
+      },
+      "alt": "Dexp Black Sword RGB",
+      "price": 3999,
+      "oldprice": 4999,
+      "rating": 4.7,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": true,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "volumecontrol": false,
+          "stand": false,
+          "defwater": true
+        },
+        "search": {
+          "model": "Dexp UGK8WQ6",
+          "value": "Dexp"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура Dexp UGK8WQ6 отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Dexp, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Dexp придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Dexp EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Dexp UGK8WQ6 достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 4,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500050",
+      "name": "Клавиатура Corsair 0S9Q17D",
+      "shortname": "Corsair 0S9Q17D",
+      "code": "27332-90",
+      "img": "images/content/products/keyboards/Corsair-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Corsair-big1.jpg",
+        "2": "images/content/products/keyboards/Corsair-big2.jpg",
+        "3": "images/content/products/keyboards/Corsair-big3.jpg",
+        "4": "images/content/products/keyboards/Corsair-big4.jpg",
+        "5": "images/content/products/keyboards/Corsair-big5.jpg"
+      },
+      "alt": "Corsair 0S9Q17D",
+      "price": 4999,
+      "oldprice": false,
+      "rating": 2.4,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": false,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": true,
+          "china": false,
+          "usa": false,
+          "volumecontrol": true,
+          "stand": false,
+          "defwater": false
+        },
+        "search": {
+          "model": "Corsair 0S9Q17D",
+          "value": "Corsair"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура Corsair 0S9Q17D отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Corsair, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Corsair придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Corsair EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Corsair 0S9Q17D достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 3,
+        "Самара, ул. Дачная 141": 3,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "500051",
+      "name": "Клавиатура Defender DN92DH0N0",
+      "shortname": "Defender DN92DH0N0",
+      "code": "64936-30",
+      "img": "images/content/products/keyboards/Defender-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Defender-big1.jpg",
+        "2": "images/content/products/keyboards/Defender-big2.jpg",
+        "3": "images/content/products/keyboards/Defender-big3.jpg",
+        "4": "images/content/products/keyboards/Defender-big4.jpg",
+        "5": "images/content/products/keyboards/Defender-big5.jpg"
+      },
+      "alt": "Defender DN92DH0N0",
+      "price": 4999,
+      "oldprice": false,
+      "rating": 4.3,
+      "presence": false,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": false,
+          "order": false,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": false,
+          "new": false,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "volumecontrol": true,
+          "stand": true,
+          "defwater": true
+        },
+        "search": {
+          "model": "Defender DN92DH0N0",
+          "value": "Defender"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура Defender DN92DH0N0 отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Defender, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Defender придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Defender EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Defender DN92DH0N0 достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 3,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500052",
+      "name": "Клавиатура Asus 91L8QC0",
+      "shortname": "Asus 91L8QC0",
+      "code": "40512-23",
+      "img": "images/content/products/keyboards/Asus-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Asus-big1.jpg",
+        "2": "images/content/products/keyboards/Asus-big2.jpg",
+        "3": "images/content/products/keyboards/Asus-big3.jpg",
+        "4": "images/content/products/keyboards/Asus-big4.jpg",
+        "5": "images/content/products/keyboards/Asus-big5.jpg"
+      },
+      "alt": "Asus 91L8QC0",
+      "price": 9999,
+      "oldprice": 14999,
+      "rating": 2.5,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": true,
+          "new": false,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "volumecontrol": false,
+          "stand": true,
+          "defwater": true
+        },
+        "search": {
+          "model": "Asus 91L8QC0",
+          "value": "Asus"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура Asus 91L8QC0 отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Asus, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Asus придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Asus EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Asus 91L8QC0 достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 3,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500053",
+      "name": "Клавиатура Asus XL6NFZONV",
+      "shortname": "Asus XL6NFZONV",
+      "code": "69358-55",
+      "img": "images/content/products/keyboards/Asus-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Asus-big1.jpg",
+        "2": "images/content/products/keyboards/Asus-big2.jpg",
+        "3": "images/content/products/keyboards/Asus-big3.jpg",
+        "4": "images/content/products/keyboards/Asus-big4.jpg",
+        "5": "images/content/products/keyboards/Asus-big5.jpg"
+      },
+      "alt": "Asus XL6NFZONV",
+      "price": 7999,
+      "oldprice": false,
+      "rating": 3.2,
+      "presence": false,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": false,
+          "order": true,
+          "gaming": false,
+          "nogaming": true,
+          "addkeys": true,
+          "noaddkeys": false,
+          "sale": false,
+          "new": false,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "volumecontrol": false,
+          "stand": true,
+          "defwater": true
+        },
+        "search": {
+          "model": "Asus XL6NFZONV",
+          "value": "Asus"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "да"
+      },
+      "description": "Клавиатура Asus XL6NFZONV отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Asus, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Asus придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Asus EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Asus XL6NFZONV достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 1,
+        "Самара, ул. Дачная 141": 3,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500054",
+      "name": "Клавиатура HyperX 01IU9SJZM",
+      "shortname": "HyperX 01IU9SJZM",
+      "code": "90250-17",
+      "img": "images/content/products/keyboards/HyperX-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/HyperX-big1.jpg",
+        "2": "images/content/products/keyboards/HyperX-big2.jpg",
+        "3": "images/content/products/keyboards/HyperX-big3.jpg",
+        "4": "images/content/products/keyboards/HyperX-big4.jpg",
+        "5": "images/content/products/keyboards/HyperX-big5.jpg"
+      },
+      "alt": "HyperX 01IU9SJZM",
+      "price": 9999,
+      "oldprice": false,
+      "rating": 3.4,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wired",
+          "valueSelectedThree": "rgb"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": false,
+          "new": false,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "volumecontrol": false,
+          "stand": false,
+          "defwater": false
+        },
+        "search": {
+          "model": "HyperX 01IU9SJZM",
+          "value": "HyperX"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "проводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "RGB",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура HyperX 01IU9SJZM отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями HyperX, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками HyperX придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО HyperX EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура HyperX 01IU9SJZM достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 0,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "500055",
+      "name": "Клавиатура Corsair WIXCPX42S",
+      "shortname": "Corsair WIXCPX42S",
+      "code": "29370-87",
+      "img": "images/content/products/keyboards/Corsair-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/keyboards/Corsair-big1.jpg",
+        "2": "images/content/products/keyboards/Corsair-big2.jpg",
+        "3": "images/content/products/keyboards/Corsair-big3.jpg",
+        "4": "images/content/products/keyboards/Corsair-big4.jpg",
+        "5": "images/content/products/keyboards/Corsair-big5.jpg"
+      },
+      "alt": "Corsair WIXCPX42S",
+      "price": 8999,
+      "oldprice": false,
+      "rating": 3.7,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "mechanical",
+          "valueSelectedSecond": "wireless",
+          "valueSelectedThree": "multicolor"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "gaming": true,
+          "nogaming": false,
+          "addkeys": false,
+          "noaddkeys": true,
+          "sale": false,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "volumecontrol": true,
+          "stand": false,
+          "defwater": true
+        },
+        "search": {
+          "model": "Corsair WIXCPX42S",
+          "value": "Corsair"
+        }
+      },
+      "characteristics": {
+        "Тип клавиатуры": "механическая",
+        "Интерфейс подключения": "беспроводной",
+        "Подсветка клавиш": "есть",
+        "Цвет подсветки клавиш": "многоцветная",
+        "Низкопрофильные клавиши": "нет",
+        "Бесшумные клавиши": "нет",
+        "Материал корпуса": "пластик, металл",
+        "Длина кабеля": "1.8 м",
+        "Функциональные клавиши": "нет"
+      },
+      "description": "Клавиатура Corsair WIXCPX42S отлично подходит для тех, кому нужно удобное и точное управление, — геймерам, стримерам и всем, кто выполняет несколько задач одновременно. Эта полнофункциональная клавиатура готова к любой задаче: от редактирования видео до просмотра фильмов. Она оснащена сверхнадежными механическими переключателями Corsair, сбалансированными по скорости и быстродействию, которые обеспечивают точность нажатия клавиш. Открытые светодиоды переключателей в сочетании с полупрозрачными двухкомпонентными клавишными колпачками Corsair придают подсветке дополнительную яркость по сравнению с однотонными колпачками. Настройте фирменную световую полоску и создавайте профили подсветки с помощью удобного ПО Corsair EXE, обеспечивающего великолепное отображение цветов. Используйте это ПО для дальнейшей персонализации настроек, создавая пользовательские игровые режимы и макросы. Клавиатура удобна для выполнения нескольких задач одновременно. Благодаря прочной стальной раме клавиатура Corsair WIXCPX42S достаточно надежна для работы и игр изо дня в день.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 5,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    }
+]

@@ -1,0 +1,1094 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>electronics-shop</title>
+        <link rel="shortcut icon" href="images/icons/favicon.png" type="image/x-icon">
+        <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/slick.css">
+        <link rel="stylesheet" href="css/fonts.css">
+        <link rel="stylesheet" href="css/ion.rangeSlider.min.css">
+        <link rel="stylesheet" href="css/jquery.formstyler.css">
+        <link rel="stylesheet" href="css/jquery.formstyler.theme.css">
+        <link rel="stylesheet" href="css/jquery.rateyo.min.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/media.css">
+    </head>
+    <body>
+        <header class="header">
+            <div class="header__top">
+                <div class="container">
+                    <div class="header__top-inner">
+                        <nav class="menu">
+                            <button class="menu__btn">
+                                <div class="menu__btn-line"></div>
+                                <div class="menu__btn-line"></div>
+                                <div class="menu__btn-line"></div>
+                            </button>
+                            <ul class="menu__list">
+                                <li class="menu__item">
+                                    <a class="menu__link" href="index.html">
+                                        Магазины
+                                    </a>
+                                </li>
+                                <li class="menu__item">
+                                    <a class="menu__link" href="index.html">
+                                        Акции
+                                    </a>
+                                </li>
+                                <li class="menu__item">
+                                    <a class="menu__link" href="index.html">
+                                        Доставка и оплата
+                                    </a>
+                                </li>
+                            </ul>
+                        </nav>
+                        <a class="logo" href="index.html">
+                            <img class="logo__img" src="images/icons/logo.png" alt="logo">
+                            <p class="logo__title">electronics <br> shop</p>
+                        </a>
+                        <div class="header__box">
+                            <p class="header__address">
+                                Самара,  ул. Георгия Димитрова  255
+                            </p>
+                            <ul class="user-list">
+                                <li class="user-list__item">
+                                    <a class="user-list__link favorite popup-link" href="#popup__favorite">
+                                        <img src="images/icons/heart.svg" alt="heart">
+                                        <p class="favorite__num"></p>
+                                    </a>
+                                </li>
+                                <li class="user-list__item">
+                                    <a class="user-list__link" href="#">
+                                        <img src="images/icons/user.svg" alt="user">
+                                    </a>
+                                </li>
+                                <li class="user-list__item">
+                                    <a class="user-list__link basket popup-link" href="#popup__basket">
+                                        <img src="images/icons/basket.svg" alt="basket">
+                                        <p class="basket__num"><span>0</span></p>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <ul class="menu-mobile__list">
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link" href="#">
+                        <img class="menu-mobile__img" src="images/icons/user.svg" alt="user">
+                        <p>Войти</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link" href="#">
+                        <img class="menu-mobile__img" src="images/icons/user.svg" alt="user">
+                        <p>Регистрация</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link" href="#">
+                        <img class="menu-mobile__img" src="images/icons/heart.svg" alt="heart">
+                        <p>Избранное</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link" href="#">
+                        <img class="menu-mobile__img" src="images/icons/basket.svg" alt="basket">
+                        <p>Корзина</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link" href="#">
+                        <img class="menu-mobile__img" src="images/icons/house.svg" alt="house">
+                        <p>Магазины</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link" href="#">
+                        <img class="menu-mobile__img" src="images/icons/procent.svg" alt="procent">
+                        <p>Акции</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link" href="#">
+                        <img class="menu-mobile__img" src="images/icons/box.svg" alt="box">
+                        <p>Доставка и оплата</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link menu-categories__link" href="catalog.html" data-category="computers">
+                        <p>Компьютеры</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link menu-categories__link" href="catalog.html" data-category="laptops">
+                        <p>Ноутбуки</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link menu-categories__link" href="catalog.html" data-category="monitors">
+                        <p>Мониторы</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link menu-categories__link" href="catalog.html" data-category="headphones">
+                        <p>Наушники</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link menu-categories__link" href="catalog.html" data-category="keyboards">
+                        <p>Клавиатуры</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link menu-categories__link" href="catalog.html" data-category="mouses">
+                        <p>Мыши</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link" href="#">
+                        <p class="header__address">
+                            Самара, <br>  ул. Георгия Димитрова  255
+                        </p>
+                    </a>
+                </li>
+            </ul>
+            <div class="menu__mobile-linewrapper">
+                <ul class="menu__mobile-line">
+                    <li class="menu__item">
+                        <a class="menu__link" href="index.html">
+                            Магазины
+                        </a>
+                    </li>
+                    <li class="menu__item">
+                        <a class="menu__link" href="index.html">
+                            Акции
+                        </a>
+                    </li>
+                    <li class="menu__item">
+                        <a class="menu__link" href="index.html">
+                            Доставка и оплата
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="header__bottom">
+                <div class="container">
+                    <ul class="menu-categories">
+                        <li class="menu-categories_item">
+                            <a class="menu-categories__link" href="catalog.html" data-category="computers">Компьютеры</a>
+                        </li>
+                        <li class="menu-categories_item">
+                            <a class="menu-categories__link" href="catalog.html" data-category="laptops">Ноутбуки</a>
+                        </li>
+                        <li class="menu-categories_item">
+                            <a class="menu-categories__link" href="catalog.html" data-category="monitors">Мониторы</a>
+                        </li>
+                        <li class="menu-categories_item">
+                            <a class="menu-categories__link" href="catalog.html" data-category="headphones">Наушники</a>
+                        </li>
+                        <li class="menu-categories_item">
+                            <a class="menu-categories__link" href="catalog.html" data-category="keyboards">Клавиатуры</a>
+                        </li>
+                        <li class="menu-categories_item">
+                            <a class="menu-categories__link" href="catalog.html" data-category="mouses">Мыши</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </header>
+
+        <section class="banner-section page-section">
+            <div class="container">
+                <div class="banner-section__inner">
+                    <div class="banner-section__slider">
+                        <a class="banner-section__slider-item" href="#">
+                            <img class="banner-section__slider-img" src="images/content/banners/top-banners/1.jpg" alt="offer">
+                        </a>
+                        <a class="banner-section__slider-item" href="#">
+                            <img class="banner-section__slider-img" src="images/content/banners/top-banners/2.jpg" alt="offer">
+                        </a>
+                        <a class="banner-section__slider-item" href="#">
+                            <img class="banner-section__slider-img" src="images/content/banners/top-banners/3.jpg" alt="offer">
+                        </a>
+                        <a class="banner-section__slider-item" href="#">
+                            <img class="banner-section__slider-img" src="images/content/banners/top-banners/4.jpg" alt="offer">
+                        </a>
+                        <a class="banner-section__slider-item" href="#">
+                            <img class="banner-section__slider-img" src="images/content/banners/top-banners/5.jpg" alt="offer">
+                        </a>
+                        <a class="banner-section__slider-item" href="#">
+                            <img class="banner-section__slider-img" src="images/content/banners/top-banners/6.jpg" alt="offer">
+                        </a>
+                    </div>
+                    <a class="banner-section__item sale-item" href="product-page.html">
+                        <div class="sale-item__top">
+                            <p class="sale-item__info">
+                                акция
+                            </p>
+                            <div class="sale-item__price">
+                                <div class="price sale-item__price-new">18 999</div>
+                                <div class="price sale-item__price-old">24 999</div>
+                            </div>
+                        </div>
+                        <img class="sale-item__img" src="images/content/banners/sale-banners/samsung-4.png" alt="">
+                        <h5 class="sale-item__title">
+                            Samsung QLED C24FG73FQI
+                        </h5>
+                        <p class="sale-item__footer">
+                            Акция действует до
+                            <span>31.08.2020</span>
+                        </p>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <div class="search page-section">
+            <div class="container">
+                <div class="search__inner">
+                    <div class="search__tabs tabs-wrapper">
+                        <div class="mobile-overflow">
+                            <a class="tab search__tabs-item tab--active" href="#tab-2">Поиск по марке</a>
+                            <a class="tab search__tabs-item" href="#tab-3">Поиск по названию товара</a>
+                        </div>
+                    </div>
+                    <div class="search__content">
+                        <div id="tab-2" class="tabs-content search__content-item tabs-content--active">
+                            <form class="search__content-form" action="#">
+                                <input class="search__content-input" type="text" placeholder="Введите марку">
+                                <button class="search__content-btn" type="submit">искать</button>
+                            </form>
+                        </div>
+                        <div id="tab-3" class="tabs-content search__content-item">
+                            <form class="search__content-form" action="#">
+                                <input class="search__content-input" type="text" placeholder="Введите название товара">
+                                <button class="search__content-btn" type="submit">искать</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <section class="categories page-section">
+            <div class="container">
+                <div class="categories__inner">
+                    <a class="categories__item menu-categories__link" href="catalog.html" data-category="computers">
+                        <div class="categories__item-info">
+                            <h4 class="categories__item-title">Компьютеры</h4>
+                            <p class="categories__item-text">Подробее</p>
+                        </div>
+                        <div class="categories__item-img">
+                            <img src="images/content/categories/computer.png" alt="Компьюетеры">
+                        </div>
+                    </a>
+                    <a class="categories__item menu-categories__link" href="catalog.html" data-category="laptops">
+                        <div class="categories__item-info">
+                            <h4 class="categories__item-title">Ноутбуки</h4>
+                            <p class="categories__item-text">Подробее</p>
+                        </div>
+                        <div class="categories__item-img">
+                            <img src="images/content/categories/notebook.png" alt="Ноутбуки">
+                        </div>
+                    </a>
+                    <a class="categories__item menu-categories__link" href="catalog.html" data-category="monitors">
+                        <div class="categories__item-info">
+                            <h4 class="categories__item-title">Мониторы</h4>
+                            <p class="categories__item-text">Подробее</p>
+                        </div>
+                        <div class="categories__item-img">
+                            <img src="images/content/categories/monitor.png" alt="Мониторы">
+                        </div>
+                    </a>
+                    <a class="categories__item menu-categories__link" href="catalog.html" data-category="headphones">
+                        <div class="categories__item-info">
+                            <h4 class="categories__item-title">Наушники</h4>
+                            <p class="categories__item-text">Подробее</p>
+                        </div>
+                        <div class="categories__item-img">
+                            <img src="images/content/categories/headphones.png" alt="Наушники">
+                        </div>
+                    </a>
+                    <a class="categories__item menu-categories__link" href="catalog.html" data-category="keyboards">
+                        <div class="categories__item-info">
+                            <h4 class="categories__item-title">Клавиатуры</h4>
+                            <p class="categories__item-text">Подробее</p>
+                        </div>
+                        <div class="categories__item-img">
+                            <img src="images/content/categories/keyboard.png" alt="Клавиатуры">
+                        </div>
+                    </a>
+                    <a class="categories__item menu-categories__link" href="catalog.html" data-category="mouses">
+                        <div class="categories__item-info">
+                            <h4 class="categories__item-title">Мыши</h4>
+                            <p class="categories__item-text">Подробее</p>
+                        </div>
+                        <div class="categories__item-img">
+                            <img src="images/content/categories/mouse.png" alt="Мыши">
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </section>
+        
+        <div class="banner">
+            <div class="container">
+                <a class="banner__link" href="#">
+                    <img src="images/content/banners/middle-banners/choicemonitor19.png" alt="">
+                </a>
+            </div>
+        </div>
+
+        <section class="products">
+            <div class="container">
+                <div class="catalog__inner-list catalog__inner-list--none"></div>
+                <div class="products__inner">
+                    <h3 class="product__title">Популярные товары</h3>
+                    <div class="tabs-wrapper">
+                        <div class="tabs products__tabs mobile-overflow">
+                            <a class="tab products__tab tab--active" href="#product-tab-1">геймпады</a>
+                            <a class="tab products__tab" href="#product-tab-2">коврики для мыши</a>
+                            <a class="tab products__tab" href="#product-tab-3">веб камеры</a>
+                            <a class="tab products__tab" href="#product-tab-4">кресла</a>
+                            <a class="tab products__tab" href="#product-tab-5">видеоигры</a>
+                            <a class="tab products__tab" href="#product-tab-6">аксессуары</a>
+                        </div>
+                    </div>
+                        <div class="tabs-container products__container">
+                            <div id="product-tab-1" class="tabs-content products__content tabs-content--active">
+                                <div class="product-slider">
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/gamepads/sony-dualshock-4-v2.png" alt="gamepad-sony">
+                                                <h4 class="product-item__title">Sony Dualshock 4 V2</h4>
+                                                <p class="price product-item__price">3 499 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/gamepads/xbox-one-s-controller-black.png" alt="gamepad-xbox">
+                                                <h4 class="product-item__title">Microsoft Xbox One S</h4>
+                                                <p class="price product-item__price">3 199 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper product-item__not-available">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/gamepads/defender-blast.png" alt="gamepad-defender">
+                                                <h4 class="product-item__title">Defender Blast</h4>
+                                                <p class="price product-item__price">999 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/gamepads/defender-x7.png" alt="gamepad-defender">
+                                                <h4 class="product-item__title">Defender X7</h4>
+                                                <p class="price product-item__price">1 099 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper product-item__not-available">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/gamepads/sony-dualshock-3-ps3.png" alt="gamepad-sony">
+                                                <h4 class="product-item__title">SONY DUALSHOCK 3 PS3</h4>
+                                                <p class="price product-item__price">899 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper product-item__not-available">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/gamepads/xbox-360-controller-black.png" alt="gamepad-xbox">
+                                                <h4 class="product-item__title">Xbox 360</h4>
+                                                <p class="price product-item__price">899 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper product-item__not-available">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/gamepads/xiaomi-xkr.png" alt="gamepad-xiaomi">
+                                                <h4 class="product-item__title">Xiaomi XKR</h4>
+                                                <p class="price product-item__price">2 999 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="product-tab-2" class="tabs-content products__content">
+                                <div class="product-slider">
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/mouse-mats/cougar-neon.png" alt="mouse-mats-cougar">
+                                                <h4 class="product-item__title">Cougar Neon</h4>
+                                                <p class="price product-item__price">3 499 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper product-item__not-available">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/mouse-mats/asus-rog-sheath.png" alt="mouse-mats-asus">
+                                                <h4 class="product-item__title">ASUS ROG Sheath</h4>
+                                                <p class="price product-item__price">2 799 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/mouse-mats/steelseries-qck-edge-large.png" alt="mouse-mats-steelseries">
+                                                <h4 class="product-item__title">Steelseries QcK EDGE Large</h4>
+                                                <p class="price product-item__price">1 799 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper product-item__not-available">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/mouse-mats/defender-black-m.png" alt="mouse-mats-defender">
+                                                <h4 class="product-item__title">Defender Black M</h4>
+                                                <p class="price product-item__price">299 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper product-item__not-available">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/mouse-mats/harper-gaming-shmot-p01.png" alt="mouse-mats-harper">
+                                                <h4 class="product-item__title">Harper Gaming Shmot P01</h4>
+                                                <p class="price product-item__price">1 999 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/mouse-mats/razer-firefly.png" alt="mouse-mats-razer">
+                                                <h4 class="product-item__title">Razer Firefly RGB</h4>
+                                                <p class="price product-item__price">3 199 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="product-tab-3" class="tabs-content products__content">
+                                <div class="product-slider">
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/webcam/logitech-webcam-c310-hd.png" alt="webcam-logitech">
+                                                <h4 class="product-item__title">Logitech Webcam C310 HD</h4>
+                                                <p class="price product-item__price">3 699 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper product-item__not-available">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/webcam/logitech-webcam-c310-hd.png" alt="webcam-logitech">
+                                                <h4 class="product-item__title">Logitech Webcam C310 HD</h4>
+                                                <p class="price product-item__price">3 699 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="product-page.html"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item" href="#">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/webcam/logitech-webcam-c310-hd.png" alt="webcam-logitech">
+                                                <h4 class="product-item__title">Logitech Webcam C310 HD</h4>
+                                                <p class="price product-item__price">3 699 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper product-item__not-available">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/webcam/logitech-webcam-c310-hd.png" alt="webcam-logitech">
+                                                <h4 class="product-item__title">Logitech Webcam C310 HD</h4>
+                                                <p class="price product-item__price">3 699 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper product-item__not-available">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/webcam/logitech-webcam-c310-hd.png" alt="webcam-logitech">
+                                                <h4 class="product-item__title">Logitech Webcam C310 HD</h4>
+                                                <p class="price product-item__price">3 699 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/webcam/logitech-webcam-c310-hd.png" alt="webcam-logitech">
+                                                <h4 class="product-item__title">Logitech Webcam C310 HD</h4>
+                                                <p class="price product-item__price">3 699</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="product-tab-4" class="tabs-content products__content">
+                                <div class="product-slider">
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/armchair/dxracer-king-ohks06n.png" alt="armchair-dxracer">
+                                                <h4 class="product-item__title">DXRacer King OH/KS06/N</h4>
+                                                <p class="price product-item__price">37 699 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper product-item__not-available">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/armchair/dxracer-king-ohks06n.png" alt="armchair-dxracer">
+                                                <h4 class="product-item__title">DXRacer King OH/KS06/N</h4>
+                                                <p class="price product-item__price">37 699 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/armchair/dxracer-king-ohks06n.png" alt="armchair-dxracer">
+                                                <h4 class="product-item__title">DXRacer King OH/KS06/N</h4>
+                                                <p class="price product-item__price">37 699 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper product-item__not-available">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/armchair/dxracer-king-ohks06n.png" alt="armchair-dxracer">
+                                                <h4 class="product-item__title">DXRacer King OH/KS06/N</h4>
+                                                <p class="price product-item__price">37 699 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper product-item__not-available">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/armchair/dxracer-king-ohks06n.png" alt="armchair-dxracer">
+                                                <h4 class="product-item__title">DXRacer King OH/KS06/N</h4>
+                                                <p class="price product-item__price">37 699 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/armchair/dxracer-king-ohks06n.png" alt="armchair-dxracer">
+                                                <h4 class="product-item__title">DXRacer King OH/KS06/N</h4>
+                                                <p class="price product-item__price">37 699</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="product-tab-5" class="tabs-content products__content">
+                                <div class="product-slider">
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/video-games/cyberpunk.png" alt="video-games-cyberpunk">
+                                                <h4 class="product-item__title">Cyberpunk 2077 (PC)</h4>
+                                                <p class="price product-item__price">1 999 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper product-item__not-available">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/video-games/cyberpunk.png" alt="video-games-cyberpunk">
+                                                <h4 class="product-item__title">Cyberpunk 2077 (PC)</h4>
+                                                <p class="price product-item__price">1 999 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/video-games/cyberpunk.png" alt="video-games-cyberpunk">
+                                                <h4 class="product-item__title">Cyberpunk 2077 (PC)</h4>
+                                                <p class="price product-item__price">1 999 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper product-item__not-available">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/video-games/cyberpunk.png" alt="video-games-cyberpunk">
+                                                <h4 class="product-item__title">Cyberpunk 2077 (PC)</h4>
+                                                <p class="price product-item__price">1 999 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper product-item__not-available">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/video-games/cyberpunk.png" alt="video-games-cyberpunk">
+                                                <h4 class="product-item__title">Cyberpunk 2077 (PC)</h4>
+                                                <p class="price product-item__price">1 999 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/video-games/cyberpunk.png" alt="video-games-cyberpunk">
+                                                <h4 class="product-item__title">Cyberpunk 2077 (PC)</h4>
+                                                <p class="price product-item__price">1 999</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="product-tab-6" class="tabs-content products__content">
+                                <div class="product-slider">
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/accessories/wipes/defender-cln-30100-pro.png" alt="wipes-defender">
+                                                <h4 class="product-item__title">Салфетки для поверхностей Defender CLN 30100 Pro</h4>
+                                                <p class="price product-item__price">199 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/accessories/wipes/defender-cln-30100-pro.png" alt="wipes-defender">
+                                                <h4 class="product-item__title">Салфетки для поверхностей Defender CLN 30100 Pro</h4>
+                                                <p class="price product-item__price">199 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/accessories/wipes/defender-cln-30100-pro.png" alt="wipes-defender">
+                                                <h4 class="product-item__title">Салфетки для поверхностей Defender CLN 30100 Pro</h4>
+                                                <p class="price product-item__price">199 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/accessories/wipes/defender-cln-30100-pro.png" alt="wipes-defender">
+                                                <h4 class="product-item__title">Салфетки для поверхностей Defender CLN 30100 Pro</h4>
+                                                <p class="price product-item__price">199 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/accessories/wipes/defender-cln-30100-pro.png" alt="wipes-defender">
+                                                <h4 class="product-item__title">Салфетки для поверхностей Defender CLN 30100 Pro</h4>
+                                                <p class="price product-item__price">199 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/accessories/wipes/defender-cln-30100-pro.png" alt="wipes-defender">
+                                                <h4 class="product-item__title">Салфетки для поверхностей Defender CLN 30100 Pro</h4>
+                                                <p class="price product-item__price">199 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="basket">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="product-page.html">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/accessories/wipes/defender-cln-30100-pro.png" alt="wipes-defender">
+                                                <h4 class="product-item__title">Салфетки для поверхностей Defender CLN 30100 Pro</h4>
+                                                <p class="price product-item__price">199 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    <div class="product__more">
+                        <a class="product__more-link" href="#">Показать еще</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <footer class="footer">
+            <div class="container">
+                <div class="footer__top">
+                    <div class="footer__top-inner">
+                        <div class="footer__top-item footer__top-newslatter">
+                            <h6 class="footer__top-title">Подпишитесь на нашу рассылку и узнавайте о акциях быстрее</h6>
+                            <form class="footer-form" action="#">
+                                <input class="footer-form__input" type="text" placeholder="Введите ваш e-mail:">
+                                <button class="footer-form__btn" type="submit">Отправить</button>
+                            </form>
+                        </div>
+                        <div class="footer__top-item footer__top-itemdrop">
+                            <h6 class="footer__top-title footer__topdrop">Информация</h6>
+                            <ul class="footer-list">
+                                <li class="footer-list__item"><a href="#">О компании</a></li>
+                                <li class="footer-list__item"><a href="#">Контакты</a></li>
+                                <li class="footer-list__item"><a href="#">Акции</a></li>
+                                <li class="footer-list__item"><a href="#">Магазины</a></li>
+                            </ul> 
+                        </div>
+                        <div class="footer__top-item">
+                            <h6 class="footer__top-title footer__topdrop">Интернет-магазин</h6>
+                            <ul class="footer-list">
+                                <li class="footer-list__item"><a href="#">Доставка и самовывоз</a></li>
+                                <li class="footer-list__item"><a href="#">Оплата</a></li>
+                                <li class="footer-list__item"><a href="#">Возврат-обмен</a></li>
+                                <li class="footer-list__item"><a href="#">Новости</a></li>
+                            </ul> 
+                        </div>
+                        <div class="footer__top-item footer__top-social">
+                            <ul class="social-list">
+                                <li class="social-list__item">
+                                    <a href="#">
+                                        <img src="images/icons/social-vkontakte.svg" alt="">
+                                    </a>
+                                </li>
+                                <li class="social-list__item">
+                                    <a href="#">
+                                        <img src="images/icons/social-instagram.svg" alt="">
+                                    </a>
+                                </li>
+                                <li class="social-list__item">
+                                    <a href="#">
+                                        <img src="images/icons/social-facebook.svg" alt="">
+                                    </a>
+                                </li>
+                                <li class="social-list__item">
+                                    <a href="#">
+                                        <img src="images/icons/social-youtube.svg" alt="">
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer__bottom">
+                    <a class="footer__bottom-link" href="#">Договор оферты</a>
+                    <a class="footer__bottom-link" href="#">Политика обработки персональных данных</a>
+                </div>
+            </div>
+        </footer>
+
+        <div id="popup__favorite" class="popup">
+            <div class="popup__body">
+                <div class="popup__inner">
+                    <a href="#" class="popup__close close-popup">&times;</a>
+                    <div id="popup__favorite-content" class="popup__content"></div>
+                </div>
+            </div>
+        </div>
+
+        <div id="popup__basket" class="popup">
+            <div class="popup__body">
+                <div class="popup__inner">
+                    <a href="#" class="popup__close close-popup">&times;</a>
+                    <div id="popup__basket-content" class="popup__content"></div>
+                </div>
+            </div>
+        </div>
+
+        <div id="notification" class="notification__box"></div>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="js/library/slick.min.js"></script>
+        <script src="js/library/ion.rangeSlider.min.js"></script>
+        <script src="js/library/jquery.formstyler.min.js"></script>
+        <script src="js/library/jquery.rateyo.min.js"></script>
+        <script src="js/bundle.js"></script>
+    </body>
+</html>

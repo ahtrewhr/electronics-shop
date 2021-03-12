@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>electronics-shop</title>
+        <link rel="shortcut icon" href="images/icons/favicon.png" type="image/x-icon">
+        <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/slick.css">
+        <link rel="stylesheet" href="css/fonts.css">
+        <link rel="stylesheet" href="css/ion.rangeSlider.min.css">
+        <link rel="stylesheet" href="css/jquery.formstyler.css">
+        <link rel="stylesheet" href="css/jquery.formstyler.theme.css">
+        <link rel="stylesheet" href="css/jquery.rateyo.min.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/media.css">
+    </head>
+    <body>
+        <header class="header">
+            <div class="header__top">
+                <div class="container">
+                    <div class="header__top-inner">
+                        <nav class="menu">
+                            <button class="menu__btn">
+                                <div class="menu__btn-line"></div>
+                                <div class="menu__btn-line"></div>
+                                <div class="menu__btn-line"></div>
+                            </button>
+                            <ul class="menu__list">
+                                <li class="menu__item">
+                                    <a class="menu__link" href="index.html">
+                                        Магазины
+                                    </a>
+                                </li>
+                                <li class="menu__item">
+                                    <a class="menu__link" href="index.html">
+                                        Акции
+                                    </a>
+                                </li>
+                                <li class="menu__item">
+                                    <a class="menu__link" href="index.html">
+                                        Доставка и оплата
+                                    </a>
+                                </li>
+                            </ul>
+                        </nav>
+                        <a class="logo" href="index.html">
+                            <img class="logo__img" src="images/icons/logo.png" alt="logo">
+                            <p class="logo__title">electronics <br> shop</p>
+                        </a>
+                        <div class="header__box">
+                            <p class="header__address">
+                                Самара,  ул. Георгия Димитрова  255
+                            </p>
+                            <ul class="user-list">
+                                <li class="user-list__item">
+                                    <a class="user-list__link favorite popup-link" href="#popup__favorite">
+                                        <img src="images/icons/heart.svg" alt="heart">
+                                        <p class="favorite__num"></p>
+                                    </a>
+                                </li>
+                                <li class="user-list__item">
+                                    <a class="user-list__link" href="#">
+                                        <img src="images/icons/user.svg" alt="user">
+                                    </a>
+                                </li>
+                                <li class="user-list__item">
+                                    <a class="user-list__link basket popup-link" href="#popup__basket">
+                                        <img src="images/icons/basket.svg" alt="basket">
+                                        <p class="basket__num"><span>0</span></p>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <ul class="menu-mobile__list">
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link" href="#">
+                        <img class="menu-mobile__img" src="images/icons/user.svg" alt="user">
+                        <p>Войти</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link" href="#">
+                        <img class="menu-mobile__img" src="images/icons/user.svg" alt="user">
+                        <p>Регистрация</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link" href="#">
+                        <img class="menu-mobile__img" src="images/icons/heart.svg" alt="heart">
+                        <p>Избранное</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link" href="#">
+                        <img class="menu-mobile__img" src="images/icons/basket.svg" alt="basket">
+                        <p>Корзина</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link" href="#">
+                        <img class="menu-mobile__img" src="images/icons/house.svg" alt="house">
+                        <p>Магазины</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link" href="#">
+                        <img class="menu-mobile__img" src="images/icons/procent.svg" alt="procent">
+                        <p>Акции</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link" href="#">
+                        <img class="menu-mobile__img" src="images/icons/box.svg" alt="box">
+                        <p>Доставка и оплата</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link menu-categories__link" href="catalog.html" data-category="computers">
+                        <p>Компьютеры</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link menu-categories__link" href="catalog.html" data-category="laptops">
+                        <p>Ноутбуки</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link menu-categories__link" href="catalog.html" data-category="monitors">
+                        <p>Мониторы</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link menu-categories__link" href="catalog.html" data-category="headphones">
+                        <p>Наушники</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link menu-categories__link" href="catalog.html" data-category="keyboards">
+                        <p>Клавиатуры</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link menu-categories__link" href="catalog.html" data-category="mouses">
+                        <p>Мыши</p>
+                    </a>
+                </li>
+                <li class="menu-mobile__item">
+                    <a class="menu-mobile__link" href="#">
+                        <p class="header__address">
+                            Самара, <br>  ул. Георгия Димитрова  255
+                        </p>
+                    </a>
+                </li>
+            </ul>
+            <div class="menu__mobile-linewrapper">
+                <ul class="menu__mobile-line">
+                    <li class="menu__item">
+                        <a class="menu__link" href="index.html">
+                            Магазины
+                        </a>
+                    </li>
+                    <li class="menu__item">
+                        <a class="menu__link" href="index.html">
+                            Акции
+                        </a>
+                    </li>
+                    <li class="menu__item">
+                        <a class="menu__link" href="index.html">
+                            Доставка и оплата
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="header__bottom">
+                <div class="container">
+                    <ul class="menu-categories">
+                        <li class="menu-categories_item">
+                            <a class="menu-categories__link" href="catalog.html" data-category="computers">Компьютеры</a>
+                        </li>
+                        <li class="menu-categories_item">
+                            <a class="menu-categories__link" href="catalog.html" data-category="laptops">Ноутбуки</a>
+                        </li>
+                        <li class="menu-categories_item">
+                            <a class="menu-categories__link" href="catalog.html" data-category="monitors">Мониторы</a>
+                        </li>
+                        <li class="menu-categories_item">
+                            <a class="menu-categories__link" href="catalog.html" data-category="headphones">Наушники</a>
+                        </li>
+                        <li class="menu-categories_item">
+                            <a class="menu-categories__link" href="catalog.html" data-category="keyboards">Клавиатуры</a>
+                        </li>
+                        <li class="menu-categories_item">
+                            <a class="menu-categories__link" href="catalog.html" data-category="mouses">Мыши</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </header>
+
+        <div class="breadcrumbs">
+            <div class="container">
+                <div class="breadcrumbs__inner">
+                    <ul class="breadcrumbs__list mobile-overflow">
+                        <li class="breadcrumbs__list-item">
+                            <a href="index.html">Главная</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <div class="product-card">
+            <div class="container">
+                <div class="product-card__inner">
+                    <div class="spinner"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card__tabs"></div>
+
+        <section class="products">
+            <div class="container">
+                <div class="catalog__inner-list catalog__inner-list--none"></div>
+                <div class="products__inner">
+                    <h3 class="product__title">С этим товаром покупают</h3>
+                    <div class="tabs-wrapper">
+                        <div class="tabs products__tabs mobile-overflow">
+                            <a class="tab products__tab tab--active" href="#popular-tab-1">аксессуары</a>
+                        </div>
+                    </div>
+                        <div class="tabs-container products__container">
+                            <div id="popular-tab-1" class="tabs-content products__content tabs-content--active">
+                                <div class="product-slider">
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item" href="#">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/accessories/wipes/wipes-aceline.jpg" alt="wipes-celine">
+                                                <h4 class="product-item__title">Салфетки Aceline</h4>
+                                                <p class="price product-item__price">199 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="#">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/accessories/wipes/MIRACLEAN-MV-24112.jpg" alt="MIRACLEAN MV 24112">
+                                                <h4 class="product-item__title">Салфетки MIRACLEAN MV</h4>
+                                                <p class="price product-item__price">99 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper product-item__not-available">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="#">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/webcam/Dexp-Chat-M100R1.jpg" alt="Dexp-Chat-M100R1">
+                                                <h4 class="product-item__title">Веб-камера Dexp Chat M100R1</h4>
+                                                <p class="price product-item__price">2 999 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="#">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/network-filter/network-filter-Pilot-S-white.jpg" alt="network-filter-Pilot-S-white">
+                                                <h4 class="product-item__title">Сетевой фильтр Pilot S белый</h4>
+                                                <p class="price product-item__price">1250 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-slider__item">
+                                        <div class="product-item__wrapper product-item__not-available">
+                                            <button class="product-item__favorite"></button>
+                                            <button class="product-item__basket">
+                                                <img src="images/icons/basket-white.svg" alt="">
+                                            </button>
+                                            <a class="product-item__notify-link" href="#"><span>Сообщить о поступлении</span></a>
+                                            <a class="product-item product-item--sale" href="#">
+                                                <p class="product-item__hover-text">посмотреть товар</p>
+                                                <img class="product-item__img" src="images/content/products/purifier/Rexant-Dust-Off.jpg" alt="Rexant-Dust-Off">
+                                                <h4 class="product-item__title">Пневматический очиститель Rexant Dust Off</h4>
+                                                <p class="price product-item__price">350 ₽</p>
+                                                <p class="product-item__notify-text">нет в наличии</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </section>
+
+        <footer class="footer">
+            <div class="container">
+                <div class="footer__top">
+                    <div class="footer__top-inner">
+                        <div class="footer__top-item footer__top-newslatter">
+                            <h6 class="footer__top-title">Подпишитесь на нашу рассылку и узнавайте о акциях быстрее</h6>
+                            <form class="footer-form" action="#">
+                                <input class="footer-form__input" type="text" placeholder="Введите ваш e-mail:">
+                                <button class="footer-form__btn" type="submit">Отправить</button>
+                            </form>
+                        </div>
+                        <div class="footer__top-item footer__top-itemdrop">
+                            <h6 class="footer__top-title footer__topdrop">Информация</h6>
+                            <ul class="footer-list">
+                                <li class="footer-list__item"><a href="#">О компании</a></li>
+                                <li class="footer-list__item"><a href="#">Контакты</a></li>
+                                <li class="footer-list__item"><a href="#">Акции</a></li>
+                                <li class="footer-list__item"><a href="#">Магазины</a></li>
+                            </ul> 
+                        </div>
+                        <div class="footer__top-item">
+                            <h6 class="footer__top-title footer__topdrop">Интернет-магазин</h6>
+                            <ul class="footer-list">
+                                <li class="footer-list__item"><a href="#">Доставка и самовывоз</a></li>
+                                <li class="footer-list__item"><a href="#">Оплата</a></li>
+                                <li class="footer-list__item"><a href="#">Возврат-обмен</a></li>
+                                <li class="footer-list__item"><a href="#">Новости</a></li>
+                            </ul> 
+                        </div>
+                        <div class="footer__top-item footer__top-social">
+                            <ul class="social-list">
+                                <li class="social-list__item">
+                                    <a href="#">
+                                        <img src="images/icons/social-vkontakte.svg" alt="">
+                                    </a>
+                                </li>
+                                <li class="social-list__item">
+                                    <a href="#">
+                                        <img src="images/icons/social-instagram.svg" alt="">
+                                    </a>
+                                </li>
+                                <li class="social-list__item">
+                                    <a href="#">
+                                        <img src="images/icons/social-facebook.svg" alt="">
+                                    </a>
+                                </li>
+                                <li class="social-list__item">
+                                    <a href="#">
+                                        <img src="images/icons/social-youtube.svg" alt="">
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer__bottom">
+                    <a class="footer__bottom-link" href="#">Договор оферты</a>
+                    <a class="footer__bottom-link" href="#">Политика обработки персональных данных</a>
+                </div>
+            </div>
+        </footer>
+
+        <div id="popup_favorite" class="popup">
+            <div class="popup__body">
+                <div class="popup__content">
+                    <a href="" class="popup__close close-popup">X</a>
+                    <div class="popup__title">favorite</div>
+                    <div class="popup__text">241515цццйейцецйейец</div>
+                </div>
+            </div>
+        </div>
+
+        <div id="popup__favorite" class="popup">
+            <div class="popup__body">
+                <div class="popup__inner">
+                    <a href="#" class="popup__close close-popup">&times;</a>
+                    <div id="popup__favorite-content" class="popup__content"></div>
+                </div>
+            </div>
+        </div>
+
+        <div id="popup__basket" class="popup">
+            <div class="popup__body">
+                <div class="popup__inner">
+                    <a href="#" class="popup__close close-popup">&times;</a>
+                    <div id="popup__basket-content" class="popup__content"></div>
+                </div>
+            </div>
+        </div>
+
+        <div id="notification" class="notification__box"></div>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="js/library/slick.min.js"></script>
+        <script src="js/library/ion.rangeSlider.min.js"></script>
+        <script src="js/library/jquery.formstyler.min.js"></script>
+        <script src="js/library/jquery.rateyo.min.js"></script>
+        <script src="js/bundle.js"></script>
+    </body>
+</html>

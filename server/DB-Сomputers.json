@@ -1,0 +1,3026 @@
+[
+    {
+      "id": "100001",
+      "name": "ПК Lenovo TYE3EWK",
+      "shortname": "Lenovo TYE3EWK",
+      "code": "16161-20",
+      "img": "images/content/products/computers/Lenovo-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/Lenovo-big1.jpg",
+        "2": "images/content/products/computers/Lenovo-big2.jpg",
+        "3": "images/content/products/computers/Lenovo-big3.jpg",
+        "4": "images/content/products/computers/Lenovo-big4.jpg",
+        "5": "images/content/products/computers/Lenovo-big5.jpg"
+      },
+      "alt": "Lenovo TYE3EWK",
+      "price": 34999,
+      "oldprice": false,
+      "rating": 4.1,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "INTEL",
+          "valueSelectedSecond": "AMD",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "4GB": false,
+          "8GB": false,
+          "16GB": true,
+          "32GB": false,
+          "gaming": true,
+          "nogaming": false,
+          "opticaldrive": true,
+          "noopticaldrive": false,
+          "sale": false,
+          "new": true,
+          "hit": true,
+          "russia": false,
+          "germany": true,
+          "china": false,
+          "usa": false,
+          "headphoneoutput": false,
+          "backlight": false,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "Lenovo TYE3EWK",
+          "value": "Lenovo"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "INTEL",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "AMD",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК Lenovo TYE3EWK представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью INTEL с трехуровневым кэшем и тактовой частотой 2900 МГц. На Lenovo TYE3EWK уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта AMD не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 4,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100002",
+      "name": "ПК ZET GAMING WARD H021",
+      "shortname": "ZET GAMING WARD H021",
+      "code": "68929-16",
+      "img": "images/content/products/computers/ZET GAMING-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/ZET GAMING-big1.jpg",
+        "2": "images/content/products/computers/ZET GAMING-big2.jpg",
+        "3": "images/content/products/computers/ZET GAMING-big3.jpg",
+        "4": "images/content/products/computers/ZET GAMING-big4.jpg",
+        "5": "images/content/products/computers/ZET GAMING-big5.jpg"
+      },
+      "alt": "ZET GAMING WARD H021",
+      "price": 105999,
+      "oldprice": 108999,
+      "rating": 4.8,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "AMD",
+          "valueSelectedSecond": "AMD",
+          "valueSelectedThree": "HDD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "4GB": false,
+          "8GB": false,
+          "16GB": false,
+          "32GB": true,
+          "gaming": false,
+          "nogaming": true,
+          "opticaldrive": true,
+          "noopticaldrive": false,
+          "sale": true,
+          "new": false,
+          "hit": true,
+          "russia": false,
+          "germany": true,
+          "china": false,
+          "usa": false,
+          "headphoneoutput": false,
+          "backlight": false,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "ZET GAMING 1N0N3DO",
+          "value": "ZET GAMING"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "AMD",
+        "Количество ядер процессора": "4",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "AMD",
+        "Объем видеопамяти": "2",
+        "Объем оперативной памяти": "4",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК ZET GAMING 1N0N3DO представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 4-ядерной моделью AMD с трехуровневым кэшем и тактовой частотой 2900 МГц. На ZET GAMING 1N0N3DO уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 4 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта AMD не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 2,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100003",
+      "name": "ПК Alienware Aurora R6",
+      "shortname": "Alienware Aurora R6",
+      "code": "67404-77",
+      "img": "images/content/products/computers/Alienware-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/Alienware-big1.jpg",
+        "2": "images/content/products/computers/Alienware-big2.jpg",
+        "3": "images/content/products/computers/Alienware-big3.jpg",
+        "4": "images/content/products/computers/Alienware-big4.jpg",
+        "5": "images/content/products/computers/Alienware-big5.jpg"
+      },
+      "alt": "Alienware Aurora R6",
+      "price": 79999,
+      "oldprice": false,
+      "rating": 4.7,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "AMD",
+          "valueSelectedSecond": "AMD",
+          "valueSelectedThree": "HDD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "4GB": false,
+          "8GB": true,
+          "16GB": false,
+          "32GB": false,
+          "gaming": true,
+          "nogaming": false,
+          "opticaldrive": true,
+          "noopticaldrive": false,
+          "sale": false,
+          "new": false,
+          "hit": true,
+          "russia": true,
+          "germany": false,
+          "china": false,
+          "usa": false,
+          "headphoneoutput": false,
+          "backlight": true,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "Alienware 77X2BM7DV",
+          "value": "Alienware"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "AMD",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "AMD",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК Alienware 77X2BM7DV представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью AMD с трехуровневым кэшем и тактовой частотой 2900 МГц. На Alienware 77X2BM7DV уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта AMD не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 5,
+        "Самара, ул. Дачная 141": 3,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "100004",
+      "name": "ПК Alienware RJ7XZ6GQ",
+      "shortname": "Alienware RJ7XZ6GQ",
+      "code": "73172-91",
+      "img": "images/content/products/computers/Alienware-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/Alienware-big1.jpg",
+        "2": "images/content/products/computers/Alienware-big2.jpg",
+        "3": "images/content/products/computers/Alienware-big3.jpg",
+        "4": "images/content/products/computers/Alienware-big4.jpg",
+        "5": "images/content/products/computers/Alienware-big5.jpg"
+      },
+      "alt": "Alienware RJ7XZ6GQ",
+      "price": 78999,
+      "oldprice": false,
+      "rating": 1,
+      "presence": false,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "AMD",
+          "valueSelectedSecond": "NVIDIA",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": false,
+          "order": false,
+          "4GB": false,
+          "8GB": false,
+          "16GB": true,
+          "32GB": false,
+          "gaming": false,
+          "nogaming": true,
+          "opticaldrive": false,
+          "noopticaldrive": true,
+          "sale": false,
+          "new": false,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "headphoneoutput": false,
+          "backlight": true,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "Alienware RJ7XZ6GQ",
+          "value": "Alienware"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "AMD",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "NVIDIA",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК Alienware RJ7XZ6GQ представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью AMD с трехуровневым кэшем и тактовой частотой 2900 МГц. На Alienware RJ7XZ6GQ уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта NVIDIA не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 5,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100005",
+      "name": "ПК ASUS Q0DB9Y4G9",
+      "shortname": "ASUS Q0DB9Y4G9",
+      "code": "84016-63",
+      "img": "images/content/products/computers/ASUS-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/ASUS-big1.jpg",
+        "2": "images/content/products/computers/ASUS-big2.jpg",
+        "3": "images/content/products/computers/ASUS-big3.jpg",
+        "4": "images/content/products/computers/ASUS-big4.jpg",
+        "5": "images/content/products/computers/ASUS-big5.jpg"
+      },
+      "alt": "ASUS Q0DB9Y4G9",
+      "price": 91999,
+      "oldprice": false,
+      "rating": 1.4,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "AMD",
+          "valueSelectedSecond": "AMD",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "4GB": false,
+          "8GB": false,
+          "16GB": false,
+          "32GB": true,
+          "gaming": true,
+          "nogaming": false,
+          "opticaldrive": true,
+          "noopticaldrive": false,
+          "sale": false,
+          "new": true,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "headphoneoutput": false,
+          "backlight": false,
+          "transparentwall": true
+        },
+        "search": {
+          "model": "ASUS Q0DB9Y4G9",
+          "value": "ASUS"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "AMD",
+        "Количество ядер процессора": "4",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "AMD",
+        "Объем видеопамяти": "2",
+        "Объем оперативной памяти": "4",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК ASUS Q0DB9Y4G9 представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 4-ядерной моделью AMD с трехуровневым кэшем и тактовой частотой 2900 МГц. На ASUS Q0DB9Y4G9 уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 4 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта AMD не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 0,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100006",
+      "name": "ПК Acer SN8F2965U",
+      "shortname": "Acer SN8F2965U",
+      "code": "78119-81",
+      "img": "images/content/products/computers/Acer-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/Acer-big1.jpg",
+        "2": "images/content/products/computers/Acer-big2.jpg",
+        "3": "images/content/products/computers/Acer-big3.jpg",
+        "4": "images/content/products/computers/Acer-big4.jpg",
+        "5": "images/content/products/computers/Acer-big5.jpg"
+      },
+      "alt": "Acer SN8F2965U",
+      "price": 25999,
+      "oldprice": false,
+      "rating": 4.1,
+      "presence": false,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "AMD",
+          "valueSelectedSecond": "AMD",
+          "valueSelectedThree": "HDD"
+        },
+        "inputs": {
+          "presence": false,
+          "order": true,
+          "4GB": true,
+          "8GB": false,
+          "16GB": false,
+          "32GB": false,
+          "gaming": true,
+          "nogaming": false,
+          "opticaldrive": true,
+          "noopticaldrive": false,
+          "sale": false,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "headphoneoutput": false,
+          "backlight": false,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "Acer SN8F2965U",
+          "value": "Acer"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "AMD",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "AMD",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК Acer SN8F2965U представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью AMD с трехуровневым кэшем и тактовой частотой 2900 МГц. На Acer SN8F2965U уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта AMD не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 1,
+        "Самара, ул. Дачная 141": 3,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "100007",
+      "name": "ПК Dexp AD51U7OSP",
+      "shortname": "Dexp AD51U7OSP",
+      "code": "74993-93",
+      "img": "images/content/products/computers/Dexp-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/Dexp-big1.jpg",
+        "2": "images/content/products/computers/Dexp-big2.jpg",
+        "3": "images/content/products/computers/Dexp-big3.jpg",
+        "4": "images/content/products/computers/Dexp-big4.jpg",
+        "5": "images/content/products/computers/Dexp-big5.jpg"
+      },
+      "alt": "Dexp AD51U7OSP",
+      "price": 86999,
+      "oldprice": false,
+      "rating": 2.3,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "INTEL",
+          "valueSelectedSecond": "NVIDIA",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "4GB": false,
+          "8GB": false,
+          "16GB": true,
+          "32GB": false,
+          "gaming": true,
+          "nogaming": false,
+          "opticaldrive": false,
+          "noopticaldrive": true,
+          "sale": false,
+          "new": false,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "headphoneoutput": true,
+          "backlight": true,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "Dexp AD51U7OSP",
+          "value": "Dexp"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "INTEL",
+        "Количество ядер процессора": "4",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "NVIDIA",
+        "Объем видеопамяти": "2",
+        "Объем оперативной памяти": "4",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК Dexp AD51U7OSP представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 4-ядерной моделью INTEL с трехуровневым кэшем и тактовой частотой 2900 МГц. На Dexp AD51U7OSP уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 4 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта NVIDIA не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 4,
+        "Самара, ул. Дачная 141": 3,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "100008",
+      "name": "ПК HyperPC M4",
+      "shortname": "HyperPC M4",
+      "code": "17616-89",
+      "img": "images/content/products/computers/HyperPC-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/HyperPC-big1.jpg",
+        "2": "images/content/products/computers/HyperPC-big2.jpg",
+        "3": "images/content/products/computers/HyperPC-big3.jpg",
+        "4": "images/content/products/computers/HyperPC-big4.jpg",
+        "5": "images/content/products/computers/HyperPC-big5.jpg"
+      },
+      "alt": "HyperPC M4",
+      "price": 95999,
+      "oldprice": false,
+      "rating": 4.9,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "INTEL",
+          "valueSelectedSecond": "NVIDIA",
+          "valueSelectedThree": "HDD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "4GB": false,
+          "8GB": false,
+          "16GB": false,
+          "32GB": true,
+          "gaming": false,
+          "nogaming": true,
+          "opticaldrive": true,
+          "noopticaldrive": false,
+          "sale": false,
+          "new": true,
+          "hit": false,
+          "russia": true,
+          "germany": false,
+          "china": false,
+          "usa": false,
+          "headphoneoutput": true,
+          "backlight": true,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "HyperPC TB48MSY",
+          "value": "HyperPC"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "INTEL",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "NVIDIA",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК HyperPC TB48MSY представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью INTEL с трехуровневым кэшем и тактовой частотой 2900 МГц. На HyperPC TB48MSY уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта NVIDIA не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 2,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "100009",
+      "name": "ПК ASUS UTBPJRTAJ",
+      "shortname": "ASUS UTBPJRTAJ",
+      "code": "58941-15",
+      "img": "images/content/products/computers/ASUS-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/ASUS-big1.jpg",
+        "2": "images/content/products/computers/ASUS-big2.jpg",
+        "3": "images/content/products/computers/ASUS-big3.jpg",
+        "4": "images/content/products/computers/ASUS-big4.jpg",
+        "5": "images/content/products/computers/ASUS-big5.jpg"
+      },
+      "alt": "ASUS UTBPJRTAJ",
+      "price": 36999,
+      "oldprice": false,
+      "rating": 4.1,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "INTEL",
+          "valueSelectedSecond": "NVIDIA",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "4GB": false,
+          "8GB": true,
+          "16GB": false,
+          "32GB": false,
+          "gaming": true,
+          "nogaming": false,
+          "opticaldrive": false,
+          "noopticaldrive": true,
+          "sale": false,
+          "new": true,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "headphoneoutput": false,
+          "backlight": false,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "ASUS UTBPJRTAJ",
+          "value": "ASUS"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "INTEL",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "NVIDIA",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК ASUS UTBPJRTAJ представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью INTEL с трехуровневым кэшем и тактовой частотой 2900 МГц. На ASUS UTBPJRTAJ уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта NVIDIA не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 3,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100010",
+      "name": "ПК Lenovo QR9U6OI2",
+      "shortname": "Lenovo QR9U6OI2",
+      "code": "13526-17",
+      "img": "images/content/products/computers/Lenovo-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/Lenovo-big1.jpg",
+        "2": "images/content/products/computers/Lenovo-big2.jpg",
+        "3": "images/content/products/computers/Lenovo-big3.jpg",
+        "4": "images/content/products/computers/Lenovo-big4.jpg",
+        "5": "images/content/products/computers/Lenovo-big5.jpg"
+      },
+      "alt": "Lenovo QR9U6OI2",
+      "price": 27999,
+      "oldprice": 32999,
+      "rating": 1.3,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "INTEL",
+          "valueSelectedSecond": "AMD",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "4GB": false,
+          "8GB": false,
+          "16GB": true,
+          "32GB": false,
+          "gaming": false,
+          "nogaming": true,
+          "opticaldrive": false,
+          "noopticaldrive": true,
+          "sale": true,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "headphoneoutput": true,
+          "backlight": true,
+          "transparentwall": true
+        },
+        "search": {
+          "model": "Lenovo QR9U6OI2",
+          "value": "Lenovo"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "INTEL",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "AMD",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК Lenovo QR9U6OI2 представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью INTEL с трехуровневым кэшем и тактовой частотой 2900 МГц. На Lenovo QR9U6OI2 уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта AMD не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 4,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100011",
+      "name": "ПК MSI Infinite X",
+      "shortname": "MSI Infinite X",
+      "code": "21651-11",
+      "img": "images/content/products/computers/MSI-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/MSI-big1.jpg",
+        "2": "images/content/products/computers/MSI-big2.jpg",
+        "3": "images/content/products/computers/MSI-big3.jpg",
+        "4": "images/content/products/computers/MSI-big4.jpg",
+        "5": "images/content/products/computers/MSI-big5.jpg"
+      },
+      "alt": "MSI Infinite X",
+      "price": 66999,
+      "oldprice": false,
+      "rating": 4.7,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "INTEL",
+          "valueSelectedSecond": "NVIDIA",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "4GB": false,
+          "8GB": false,
+          "16GB": true,
+          "32GB": false,
+          "gaming": true,
+          "nogaming": false,
+          "opticaldrive": false,
+          "noopticaldrive": true,
+          "sale": false,
+          "new": true,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "headphoneoutput": false,
+          "backlight": true,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "MSI KP0QGJX",
+          "value": "MSI"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "INTEL",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "NVIDIA",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК MSI KP0QGJX представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью INTEL с трехуровневым кэшем и тактовой частотой 2900 МГц. На MSI KP0QGJX уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта NVIDIA не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 0,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100012",
+      "name": "ПК HyperPC 6G8QXD5SV",
+      "shortname": "HyperPC 6G8QXD5SV",
+      "code": "52314-71",
+      "img": "images/content/products/computers/HyperPC-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/HyperPC-big1.jpg",
+        "2": "images/content/products/computers/HyperPC-big2.jpg",
+        "3": "images/content/products/computers/HyperPC-big3.jpg",
+        "4": "images/content/products/computers/HyperPC-big4.jpg",
+        "5": "images/content/products/computers/HyperPC-big5.jpg"
+      },
+      "alt": "HyperPC 6G8QXD5SV",
+      "price": 50999,
+      "oldprice": false,
+      "rating": 1.7,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "INTEL",
+          "valueSelectedSecond": "NVIDIA",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "4GB": false,
+          "8GB": true,
+          "16GB": false,
+          "32GB": false,
+          "gaming": false,
+          "nogaming": true,
+          "opticaldrive": true,
+          "noopticaldrive": false,
+          "sale": false,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "headphoneoutput": true,
+          "backlight": false,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "HyperPC 6G8QXD5SV",
+          "value": "HyperPC"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "INTEL",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "NVIDIA",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК HyperPC 6G8QXD5SV представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью INTEL с трехуровневым кэшем и тактовой частотой 2900 МГц. На HyperPC 6G8QXD5SV уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта NVIDIA не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 3,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100013",
+      "name": "ПК ZET GAMING TRQT75P",
+      "shortname": "ZET GAMING TRQT75P",
+      "code": "74629-30",
+      "img": "images/content/products/computers/ZET GAMING-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/ZET GAMING-big1.jpg",
+        "2": "images/content/products/computers/ZET GAMING-big2.jpg",
+        "3": "images/content/products/computers/ZET GAMING-big3.jpg",
+        "4": "images/content/products/computers/ZET GAMING-big4.jpg",
+        "5": "images/content/products/computers/ZET GAMING-big5.jpg"
+      },
+      "alt": "ZET GAMING TRQT75P",
+      "price": 50999,
+      "oldprice": 55999,
+      "rating": 1.4,
+      "presence": false,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "AMD",
+          "valueSelectedSecond": "NVIDIA",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": false,
+          "order": true,
+          "4GB": false,
+          "8GB": false,
+          "16GB": false,
+          "32GB": true,
+          "gaming": false,
+          "nogaming": true,
+          "opticaldrive": true,
+          "noopticaldrive": false,
+          "sale": true,
+          "new": true,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "headphoneoutput": false,
+          "backlight": false,
+          "transparentwall": true
+        },
+        "search": {
+          "model": "ZET GAMING TRQT75P",
+          "value": "ZET GAMING"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "AMD",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "NVIDIA",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК ZET GAMING TRQT75P представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью AMD с трехуровневым кэшем и тактовой частотой 2900 МГц. На ZET GAMING TRQT75P уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта NVIDIA не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 1,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100014",
+      "name": "ПК Lenovo INNF2OH",
+      "shortname": "Lenovo INNF2OH",
+      "code": "81548-31",
+      "img": "images/content/products/computers/Lenovo-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/Lenovo-big1.jpg",
+        "2": "images/content/products/computers/Lenovo-big2.jpg",
+        "3": "images/content/products/computers/Lenovo-big3.jpg",
+        "4": "images/content/products/computers/Lenovo-big4.jpg",
+        "5": "images/content/products/computers/Lenovo-big5.jpg"
+      },
+      "alt": "Lenovo INNF2OH",
+      "price": 84999,
+      "oldprice": false,
+      "rating": 4.3,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "INTEL",
+          "valueSelectedSecond": "NVIDIA",
+          "valueSelectedThree": "HDD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "4GB": false,
+          "8GB": false,
+          "16GB": false,
+          "32GB": true,
+          "gaming": false,
+          "nogaming": true,
+          "opticaldrive": false,
+          "noopticaldrive": true,
+          "sale": false,
+          "new": true,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "headphoneoutput": true,
+          "backlight": false,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "Lenovo INNF2OH",
+          "value": "Lenovo"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "INTEL",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "NVIDIA",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК Lenovo INNF2OH представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью INTEL с трехуровневым кэшем и тактовой частотой 2900 МГц. На Lenovo INNF2OH уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта NVIDIA не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 1,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100015",
+      "name": "ПК ASUS ROG Strix G35DX",
+      "shortname": "ASUS ROG Strix G35DX",
+      "code": "23502-45",
+      "img": "images/content/products/computers/ASUS-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/ASUS-big1.jpg",
+        "2": "images/content/products/computers/ASUS-big2.jpg",
+        "3": "images/content/products/computers/ASUS-big3.jpg",
+        "4": "images/content/products/computers/ASUS-big4.jpg",
+        "5": "images/content/products/computers/ASUS-big5.jpg"
+      },
+      "alt": "ASUS ROG Strix G35DX",
+      "price": 88999,
+      "oldprice": 93999,
+      "rating": 4.6,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "AMD",
+          "valueSelectedSecond": "NVIDIA",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "4GB": true,
+          "8GB": false,
+          "16GB": false,
+          "32GB": false,
+          "gaming": false,
+          "nogaming": true,
+          "opticaldrive": true,
+          "noopticaldrive": false,
+          "sale": true,
+          "new": false,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "headphoneoutput": true,
+          "backlight": true,
+          "transparentwall": true
+        },
+        "search": {
+          "model": "ASUS 58XIGAFHG",
+          "value": "ASUS"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "AMD",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "NVIDIA",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК ASUS 58XIGAFHG представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью AMD с трехуровневым кэшем и тактовой частотой 2900 МГц. На ASUS 58XIGAFHG уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта NVIDIA не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 4,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100016",
+      "name": "ПК MSI R1FUC0C",
+      "shortname": "MSI R1FUC0C",
+      "code": "35349-71",
+      "img": "images/content/products/computers/MSI-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/MSI-big1.jpg",
+        "2": "images/content/products/computers/MSI-big2.jpg",
+        "3": "images/content/products/computers/MSI-big3.jpg",
+        "4": "images/content/products/computers/MSI-big4.jpg",
+        "5": "images/content/products/computers/MSI-big5.jpg"
+      },
+      "alt": "MSI R1FUC0C",
+      "price": 24999,
+      "oldprice": 29999,
+      "rating": 2.3,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "INTEL",
+          "valueSelectedSecond": "NVIDIA",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "4GB": true,
+          "8GB": false,
+          "16GB": false,
+          "32GB": false,
+          "gaming": true,
+          "nogaming": false,
+          "opticaldrive": false,
+          "noopticaldrive": true,
+          "sale": true,
+          "new": true,
+          "hit": false,
+          "russia": true,
+          "germany": false,
+          "china": false,
+          "usa": false,
+          "headphoneoutput": false,
+          "backlight": true,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "MSI R1FUC0C",
+          "value": "MSI"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "INTEL",
+        "Количество ядер процессора": "4",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "NVIDIA",
+        "Объем видеопамяти": "2",
+        "Объем оперативной памяти": "4",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК MSI R1FUC0C представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 4-ядерной моделью INTEL с трехуровневым кэшем и тактовой частотой 2900 МГц. На MSI R1FUC0C уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 4 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта NVIDIA не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 0,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "100017",
+      "name": "ПК HP O7CYSV6",
+      "shortname": "HP O7CYSV6",
+      "code": "54722-58",
+      "img": "images/content/products/computers/HP-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/HP-big1.jpg",
+        "2": "images/content/products/computers/HP-big2.jpg",
+        "3": "images/content/products/computers/HP-big3.jpg",
+        "4": "images/content/products/computers/HP-big4.jpg",
+        "5": "images/content/products/computers/HP-big5.jpg"
+      },
+      "alt": "HP O7CYSV6",
+      "price": 69999,
+      "oldprice": 74999,
+      "rating": 4.3,
+      "presence": false,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "AMD",
+          "valueSelectedSecond": "NVIDIA",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": false,
+          "order": false,
+          "4GB": false,
+          "8GB": false,
+          "16GB": true,
+          "32GB": false,
+          "gaming": true,
+          "nogaming": false,
+          "opticaldrive": false,
+          "noopticaldrive": true,
+          "sale": true,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "headphoneoutput": false,
+          "backlight": true,
+          "transparentwall": true
+        },
+        "search": {
+          "model": "HP O7CYSV6",
+          "value": "HP"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "AMD",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "NVIDIA",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК HP O7CYSV6 представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью AMD с трехуровневым кэшем и тактовой частотой 2900 МГц. На HP O7CYSV6 уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта NVIDIA не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 2,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100018",
+      "name": "ПК ZET GAMING 0WF3HVS",
+      "shortname": "ZET GAMING 0WF3HVS",
+      "code": "29045-25",
+      "img": "images/content/products/computers/ZET GAMING-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/ZET GAMING-big1.jpg",
+        "2": "images/content/products/computers/ZET GAMING-big2.jpg",
+        "3": "images/content/products/computers/ZET GAMING-big3.jpg",
+        "4": "images/content/products/computers/ZET GAMING-big4.jpg",
+        "5": "images/content/products/computers/ZET GAMING-big5.jpg"
+      },
+      "alt": "ZET GAMING 0WF3HVS",
+      "price": 33999,
+      "oldprice": false,
+      "rating": 3.3,
+      "presence": false,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "AMD",
+          "valueSelectedSecond": "NVIDIA",
+          "valueSelectedThree": "HDD"
+        },
+        "inputs": {
+          "presence": false,
+          "order": true,
+          "4GB": false,
+          "8GB": true,
+          "16GB": false,
+          "32GB": false,
+          "gaming": false,
+          "nogaming": true,
+          "opticaldrive": true,
+          "noopticaldrive": false,
+          "sale": false,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": true,
+          "china": false,
+          "usa": false,
+          "headphoneoutput": false,
+          "backlight": true,
+          "transparentwall": true
+        },
+        "search": {
+          "model": "ZET GAMING 0WF3HVS",
+          "value": "ZET GAMING"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "AMD",
+        "Количество ядер процессора": "4",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "NVIDIA",
+        "Объем видеопамяти": "2",
+        "Объем оперативной памяти": "4",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК ZET GAMING 0WF3HVS представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 4-ядерной моделью AMD с трехуровневым кэшем и тактовой частотой 2900 МГц. На ZET GAMING 0WF3HVS уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 4 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта NVIDIA не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 4,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100019",
+      "name": "ПК ZET GAMING Z9WLPB2",
+      "shortname": "ZET GAMING Z9WLPB2",
+      "code": "46328-25",
+      "img": "images/content/products/computers/ZET GAMING-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/ZET GAMING-big1.jpg",
+        "2": "images/content/products/computers/ZET GAMING-big2.jpg",
+        "3": "images/content/products/computers/ZET GAMING-big3.jpg",
+        "4": "images/content/products/computers/ZET GAMING-big4.jpg",
+        "5": "images/content/products/computers/ZET GAMING-big5.jpg"
+      },
+      "alt": "ZET GAMING Z9WLPB2",
+      "price": 48999,
+      "oldprice": 53999,
+      "rating": 1.9,
+      "presence": false,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "INTEL",
+          "valueSelectedSecond": "AMD",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": false,
+          "order": true,
+          "4GB": false,
+          "8GB": false,
+          "16GB": false,
+          "32GB": true,
+          "gaming": false,
+          "nogaming": true,
+          "opticaldrive": false,
+          "noopticaldrive": true,
+          "sale": true,
+          "new": false,
+          "hit": true,
+          "russia": false,
+          "germany": true,
+          "china": false,
+          "usa": false,
+          "headphoneoutput": true,
+          "backlight": true,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "ZET GAMING Z9WLPB2",
+          "value": "ZET GAMING"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "INTEL",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "AMD",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК ZET GAMING Z9WLPB2 представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью INTEL с трехуровневым кэшем и тактовой частотой 2900 МГц. На ZET GAMING Z9WLPB2 уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта AMD не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 5,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100020",
+      "name": "ПК Lenovo IdeaCentre G5",
+      "shortname": "Lenovo IdeaCentre G5",
+      "code": "72520-20",
+      "img": "images/content/products/computers/Lenovo-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/Lenovo-big1.jpg",
+        "2": "images/content/products/computers/Lenovo-big2.jpg",
+        "3": "images/content/products/computers/Lenovo-big3.jpg",
+        "4": "images/content/products/computers/Lenovo-big4.jpg",
+        "5": "images/content/products/computers/Lenovo-big5.jpg"
+      },
+      "alt": "Lenovo IdeaCentre G5",
+      "price": 107999,
+      "oldprice": false,
+      "rating": 4.6,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "INTEL",
+          "valueSelectedSecond": "NVIDIA",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "4GB": true,
+          "8GB": false,
+          "16GB": false,
+          "32GB": false,
+          "gaming": true,
+          "nogaming": false,
+          "opticaldrive": true,
+          "noopticaldrive": false,
+          "sale": false,
+          "new": true,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "headphoneoutput": true,
+          "backlight": true,
+          "transparentwall": true
+        },
+        "search": {
+          "model": "Lenovo WTW2UVGAD",
+          "value": "Lenovo"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "INTEL",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "NVIDIA",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК Lenovo WTW2UVGAD представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью INTEL с трехуровневым кэшем и тактовой частотой 2900 МГц. На Lenovo WTW2UVGAD уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта NVIDIA не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 3,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100021",
+      "name": "ПК ASUS JX2CKKVK",
+      "shortname": "ASUS JX2CKKVK",
+      "code": "95254-12",
+      "img": "images/content/products/computers/ASUS-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/ASUS-big1.jpg",
+        "2": "images/content/products/computers/ASUS-big2.jpg",
+        "3": "images/content/products/computers/ASUS-big3.jpg",
+        "4": "images/content/products/computers/ASUS-big4.jpg",
+        "5": "images/content/products/computers/ASUS-big5.jpg"
+      },
+      "alt": "ASUS JX2CKKVK",
+      "price": 43999,
+      "oldprice": false,
+      "rating": 4,
+      "presence": false,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "INTEL",
+          "valueSelectedSecond": "NVIDIA",
+          "valueSelectedThree": "HDD"
+        },
+        "inputs": {
+          "presence": false,
+          "order": false,
+          "4GB": false,
+          "8GB": false,
+          "16GB": false,
+          "32GB": true,
+          "gaming": true,
+          "nogaming": false,
+          "opticaldrive": false,
+          "noopticaldrive": true,
+          "sale": false,
+          "new": true,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "headphoneoutput": true,
+          "backlight": true,
+          "transparentwall": true
+        },
+        "search": {
+          "model": "ASUS JX2CKKVK",
+          "value": "ASUS"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "INTEL",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "NVIDIA",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК ASUS JX2CKKVK представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью INTEL с трехуровневым кэшем и тактовой частотой 2900 МГц. На ASUS JX2CKKVK уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта NVIDIA не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 4,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "100022",
+      "name": "ПК ZET GAMING 0XJF4IP",
+      "shortname": "ZET GAMING 0XJF4IP",
+      "code": "87847-16",
+      "img": "images/content/products/computers/ZET GAMING-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/ZET GAMING-big1.jpg",
+        "2": "images/content/products/computers/ZET GAMING-big2.jpg",
+        "3": "images/content/products/computers/ZET GAMING-big3.jpg",
+        "4": "images/content/products/computers/ZET GAMING-big4.jpg",
+        "5": "images/content/products/computers/ZET GAMING-big5.jpg"
+      },
+      "alt": "ZET GAMING 0XJF4IP",
+      "price": 105999,
+      "oldprice": false,
+      "rating": 1.7,
+      "presence": false,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "AMD",
+          "valueSelectedSecond": "AMD",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": false,
+          "order": false,
+          "4GB": false,
+          "8GB": false,
+          "16GB": false,
+          "32GB": true,
+          "gaming": true,
+          "nogaming": false,
+          "opticaldrive": false,
+          "noopticaldrive": true,
+          "sale": false,
+          "new": false,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "headphoneoutput": false,
+          "backlight": true,
+          "transparentwall": true
+        },
+        "search": {
+          "model": "ZET GAMING 0XJF4IP",
+          "value": "ZET GAMING"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "AMD",
+        "Количество ядер процессора": "4",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "AMD",
+        "Объем видеопамяти": "2",
+        "Объем оперативной памяти": "4",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК ZET GAMING 0XJF4IP представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 4-ядерной моделью AMD с трехуровневым кэшем и тактовой частотой 2900 МГц. На ZET GAMING 0XJF4IP уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 4 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта AMD не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 3,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "100023",
+      "name": "ПК Alienware 4TBFI0PQ",
+      "shortname": "Alienware 4TBFI0PQ",
+      "code": "12286-33",
+      "img": "images/content/products/computers/Alienware-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/Alienware-big1.jpg",
+        "2": "images/content/products/computers/Alienware-big2.jpg",
+        "3": "images/content/products/computers/Alienware-big3.jpg",
+        "4": "images/content/products/computers/Alienware-big4.jpg",
+        "5": "images/content/products/computers/Alienware-big5.jpg"
+      },
+      "alt": "Alienware 4TBFI0PQ",
+      "price": 40999,
+      "oldprice": 45999,
+      "rating": 4.1,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "AMD",
+          "valueSelectedSecond": "AMD",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "4GB": false,
+          "8GB": false,
+          "16GB": true,
+          "32GB": false,
+          "gaming": false,
+          "nogaming": true,
+          "opticaldrive": false,
+          "noopticaldrive": true,
+          "sale": true,
+          "new": true,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "headphoneoutput": true,
+          "backlight": false,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "Alienware 4TBFI0PQ",
+          "value": "Alienware"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "AMD",
+        "Количество ядер процессора": "4",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "AMD",
+        "Объем видеопамяти": "2",
+        "Объем оперативной памяти": "4",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК Alienware 4TBFI0PQ представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 4-ядерной моделью AMD с трехуровневым кэшем и тактовой частотой 2900 МГц. На Alienware 4TBFI0PQ уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 4 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта AMD не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 0,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100024",
+      "name": "ПК ZET GAMING 0LFQQY2OL",
+      "shortname": "ZET GAMING 0LFQQY2OL",
+      "code": "25259-72",
+      "img": "images/content/products/computers/ZET GAMING-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/ZET GAMING-big1.jpg",
+        "2": "images/content/products/computers/ZET GAMING-big2.jpg",
+        "3": "images/content/products/computers/ZET GAMING-big3.jpg",
+        "4": "images/content/products/computers/ZET GAMING-big4.jpg",
+        "5": "images/content/products/computers/ZET GAMING-big5.jpg"
+      },
+      "alt": "ZET GAMING 0LFQQY2OL",
+      "price": 27999,
+      "oldprice": 32999,
+      "rating": 4.2,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "AMD",
+          "valueSelectedSecond": "AMD",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "4GB": false,
+          "8GB": false,
+          "16GB": true,
+          "32GB": false,
+          "gaming": false,
+          "nogaming": true,
+          "opticaldrive": false,
+          "noopticaldrive": true,
+          "sale": true,
+          "new": true,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "headphoneoutput": false,
+          "backlight": true,
+          "transparentwall": true
+        },
+        "search": {
+          "model": "ZET GAMING 0LFQQY2OL",
+          "value": "ZET GAMING"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "AMD",
+        "Количество ядер процессора": "4",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "AMD",
+        "Объем видеопамяти": "2",
+        "Объем оперативной памяти": "4",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК ZET GAMING 0LFQQY2OL представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 4-ядерной моделью AMD с трехуровневым кэшем и тактовой частотой 2900 МГц. На ZET GAMING 0LFQQY2OL уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 4 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта AMD не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 0,
+        "Самара, ул. Дачная 141": 3,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100025",
+      "name": "ПК ASUS 48V6L7E3",
+      "shortname": "ASUS 48V6L7E3",
+      "code": "31985-26",
+      "img": "images/content/products/computers/ASUS-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/ASUS-big1.jpg",
+        "2": "images/content/products/computers/ASUS-big2.jpg",
+        "3": "images/content/products/computers/ASUS-big3.jpg",
+        "4": "images/content/products/computers/ASUS-big4.jpg",
+        "5": "images/content/products/computers/ASUS-big5.jpg"
+      },
+      "alt": "ASUS 48V6L7E3",
+      "price": 117999,
+      "oldprice": 122999,
+      "rating": 3.7,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "INTEL",
+          "valueSelectedSecond": "AMD",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "4GB": true,
+          "8GB": false,
+          "16GB": false,
+          "32GB": false,
+          "gaming": true,
+          "nogaming": false,
+          "opticaldrive": true,
+          "noopticaldrive": false,
+          "sale": true,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "headphoneoutput": false,
+          "backlight": true,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "ASUS 48V6L7E3",
+          "value": "ASUS"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "INTEL",
+        "Количество ядер процессора": "4",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "AMD",
+        "Объем видеопамяти": "2",
+        "Объем оперативной памяти": "4",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК ASUS 48V6L7E3 представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 4-ядерной моделью INTEL с трехуровневым кэшем и тактовой частотой 2900 МГц. На ASUS 48V6L7E3 уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 4 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта AMD не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 4,
+        "Самара, ул. Дачная 141": 3,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "100026",
+      "name": "ПК HyperPC 9A40XIUIV",
+      "shortname": "HyperPC 9A40XIUIV",
+      "code": "48157-45",
+      "img": "images/content/products/computers/HyperPC-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/HyperPC-big1.jpg",
+        "2": "images/content/products/computers/HyperPC-big2.jpg",
+        "3": "images/content/products/computers/HyperPC-big3.jpg",
+        "4": "images/content/products/computers/HyperPC-big4.jpg",
+        "5": "images/content/products/computers/HyperPC-big5.jpg"
+      },
+      "alt": "HyperPC 9A40XIUIV",
+      "price": 67999,
+      "oldprice": 72999,
+      "rating": 4.4,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "AMD",
+          "valueSelectedSecond": "AMD",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "4GB": false,
+          "8GB": false,
+          "16GB": true,
+          "32GB": false,
+          "gaming": true,
+          "nogaming": false,
+          "opticaldrive": false,
+          "noopticaldrive": true,
+          "sale": true,
+          "new": false,
+          "hit": false,
+          "russia": true,
+          "germany": false,
+          "china": false,
+          "usa": false,
+          "headphoneoutput": true,
+          "backlight": true,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "HyperPC 9A40XIUIV",
+          "value": "HyperPC"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "AMD",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "AMD",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК HyperPC 9A40XIUIV представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью AMD с трехуровневым кэшем и тактовой частотой 2900 МГц. На HyperPC 9A40XIUIV уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта AMD не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 5,
+        "Самара, ул. Дачная 141": 3,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "100027",
+      "name": "ПК ASUS OABJEG53K",
+      "shortname": "ASUS OABJEG53K",
+      "code": "12189-76",
+      "img": "images/content/products/computers/ASUS-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/ASUS-big1.jpg",
+        "2": "images/content/products/computers/ASUS-big2.jpg",
+        "3": "images/content/products/computers/ASUS-big3.jpg",
+        "4": "images/content/products/computers/ASUS-big4.jpg",
+        "5": "images/content/products/computers/ASUS-big5.jpg"
+      },
+      "alt": "ASUS OABJEG53K",
+      "price": 55999,
+      "oldprice": 60999,
+      "rating": 1.4,
+      "presence": false,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "AMD",
+          "valueSelectedSecond": "AMD",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": false,
+          "order": true,
+          "4GB": false,
+          "8GB": false,
+          "16GB": true,
+          "32GB": false,
+          "gaming": true,
+          "nogaming": false,
+          "opticaldrive": false,
+          "noopticaldrive": true,
+          "sale": true,
+          "new": false,
+          "hit": false,
+          "russia": true,
+          "germany": false,
+          "china": false,
+          "usa": false,
+          "headphoneoutput": false,
+          "backlight": true,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "ASUS OABJEG53K",
+          "value": "ASUS"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "AMD",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "AMD",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК ASUS OABJEG53K представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью AMD с трехуровневым кэшем и тактовой частотой 2900 МГц. На ASUS OABJEG53K уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта AMD не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 0,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100028",
+      "name": "ПК Acer Aspire Predator Orion 3000 PO3-620",
+      "shortname": "Acer Aspire Predator Orion 3000 PO3-620",
+      "code": "24722-81",
+      "img": "images/content/products/computers/Acer-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/Acer-big1.jpg",
+        "2": "images/content/products/computers/Acer-big2.jpg",
+        "3": "images/content/products/computers/Acer-big3.jpg",
+        "4": "images/content/products/computers/Acer-big4.jpg",
+        "5": "images/content/products/computers/Acer-big5.jpg"
+      },
+      "alt": "Acer Aspire Predator Orion 3000 PO3-620",
+      "price": 99999,
+      "oldprice": 104999,
+      "rating": 4.8,
+      "presence": false,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "INTEL",
+          "valueSelectedSecond": "NVIDIA",
+          "valueSelectedThree": "HDD"
+        },
+        "inputs": {
+          "presence": false,
+          "order": false,
+          "4GB": false,
+          "8GB": false,
+          "16GB": false,
+          "32GB": true,
+          "gaming": false,
+          "nogaming": true,
+          "opticaldrive": true,
+          "noopticaldrive": false,
+          "sale": true,
+          "new": true,
+          "hit": true,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "headphoneoutput": true,
+          "backlight": true,
+          "transparentwall": true
+        },
+        "search": {
+          "model": "Acer KYDOQ03J",
+          "value": "Acer"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "INTEL",
+        "Количество ядер процессора": "4",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "NVIDIA",
+        "Объем видеопамяти": "2",
+        "Объем оперативной памяти": "4",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК Acer KYDOQ03J представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 4-ядерной моделью INTEL с трехуровневым кэшем и тактовой частотой 2900 МГц. На Acer KYDOQ03J уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 4 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта NVIDIA не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 0,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100029",
+      "name": "ПК HP Omen GT13",
+      "shortname": "HP Omen GT13",
+      "code": "60126-64",
+      "img": "images/content/products/computers/HP-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/HP-big1.jpg",
+        "2": "images/content/products/computers/HP-big2.jpg",
+        "3": "images/content/products/computers/HP-big3.jpg",
+        "4": "images/content/products/computers/HP-big4.jpg",
+        "5": "images/content/products/computers/HP-big5.jpg"
+      },
+      "alt": "HP Omen GT13",
+      "price": 84999,
+      "oldprice": false,
+      "rating": 4.7,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "INTEL",
+          "valueSelectedSecond": "NVIDIA",
+          "valueSelectedThree": "HDD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "4GB": false,
+          "8GB": true,
+          "16GB": false,
+          "32GB": false,
+          "gaming": false,
+          "nogaming": true,
+          "opticaldrive": false,
+          "noopticaldrive": true,
+          "sale": false,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "headphoneoutput": true,
+          "backlight": false,
+          "transparentwall": true
+        },
+        "search": {
+          "model": "HP SFEM0J49",
+          "value": "HP"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "INTEL",
+        "Количество ядер процессора": "4",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "NVIDIA",
+        "Объем видеопамяти": "2",
+        "Объем оперативной памяти": "4",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК HP SFEM0J49 представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 4-ядерной моделью INTEL с трехуровневым кэшем и тактовой частотой 2900 МГц. На HP SFEM0J49 уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 4 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта NVIDIA не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 5,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100030",
+      "name": "ПК Alienware 5N8W1XH",
+      "shortname": "Alienware 5N8W1XH",
+      "code": "26275-76",
+      "img": "images/content/products/computers/Alienware-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/Alienware-big1.jpg",
+        "2": "images/content/products/computers/Alienware-big2.jpg",
+        "3": "images/content/products/computers/Alienware-big3.jpg",
+        "4": "images/content/products/computers/Alienware-big4.jpg",
+        "5": "images/content/products/computers/Alienware-big5.jpg"
+      },
+      "alt": "Alienware 5N8W1XH",
+      "price": 117999,
+      "oldprice": 122999,
+      "rating": 4.1,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "AMD",
+          "valueSelectedSecond": "AMD",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "4GB": false,
+          "8GB": true,
+          "16GB": false,
+          "32GB": false,
+          "gaming": false,
+          "nogaming": true,
+          "opticaldrive": false,
+          "noopticaldrive": true,
+          "sale": true,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "headphoneoutput": true,
+          "backlight": true,
+          "transparentwall": true
+        },
+        "search": {
+          "model": "Alienware 5N8W1XH",
+          "value": "Alienware"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "AMD",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "AMD",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК Alienware 5N8W1XH представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью AMD с трехуровневым кэшем и тактовой частотой 2900 МГц. На Alienware 5N8W1XH уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта AMD не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 5,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100031",
+      "name": "ПК Alienware D4U0D8U7",
+      "shortname": "Alienware D4U0D8U7",
+      "code": "67170-26",
+      "img": "images/content/products/computers/Alienware-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/Alienware-big1.jpg",
+        "2": "images/content/products/computers/Alienware-big2.jpg",
+        "3": "images/content/products/computers/Alienware-big3.jpg",
+        "4": "images/content/products/computers/Alienware-big4.jpg",
+        "5": "images/content/products/computers/Alienware-big5.jpg"
+      },
+      "alt": "Alienware D4U0D8U7",
+      "price": 38999,
+      "oldprice": 43999,
+      "rating": 4.2,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "AMD",
+          "valueSelectedSecond": "AMD",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "4GB": false,
+          "8GB": true,
+          "16GB": false,
+          "32GB": false,
+          "gaming": true,
+          "nogaming": false,
+          "opticaldrive": false,
+          "noopticaldrive": true,
+          "sale": true,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "headphoneoutput": true,
+          "backlight": true,
+          "transparentwall": true
+        },
+        "search": {
+          "model": "Alienware D4U0D8U7",
+          "value": "Alienware"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "AMD",
+        "Количество ядер процессора": "4",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "AMD",
+        "Объем видеопамяти": "2",
+        "Объем оперативной памяти": "4",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК Alienware D4U0D8U7 представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 4-ядерной моделью AMD с трехуровневым кэшем и тактовой частотой 2900 МГц. На Alienware D4U0D8U7 уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 4 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта AMD не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 2,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "100032",
+      "name": "ПК HyperPC 9KFCKVTR",
+      "shortname": "HyperPC 9KFCKVTR",
+      "code": "80064-18",
+      "img": "images/content/products/computers/HyperPC-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/HyperPC-big1.jpg",
+        "2": "images/content/products/computers/HyperPC-big2.jpg",
+        "3": "images/content/products/computers/HyperPC-big3.jpg",
+        "4": "images/content/products/computers/HyperPC-big4.jpg",
+        "5": "images/content/products/computers/HyperPC-big5.jpg"
+      },
+      "alt": "HyperPC 9KFCKVTR",
+      "price": 108999,
+      "oldprice": false,
+      "rating": 3.7,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "AMD",
+          "valueSelectedSecond": "AMD",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "4GB": false,
+          "8GB": false,
+          "16GB": true,
+          "32GB": false,
+          "gaming": false,
+          "nogaming": true,
+          "opticaldrive": false,
+          "noopticaldrive": true,
+          "sale": false,
+          "new": false,
+          "hit": false,
+          "russia": true,
+          "germany": false,
+          "china": false,
+          "usa": false,
+          "headphoneoutput": false,
+          "backlight": false,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "HyperPC 9KFCKVTR",
+          "value": "HyperPC"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "AMD",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "AMD",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК HyperPC 9KFCKVTR представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью AMD с трехуровневым кэшем и тактовой частотой 2900 МГц. На HyperPC 9KFCKVTR уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта AMD не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 2,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "100033",
+      "name": "ПК HP 2FU9PLR",
+      "shortname": "HP 2FU9PLR",
+      "code": "61346-88",
+      "img": "images/content/products/computers/HP-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/HP-big1.jpg",
+        "2": "images/content/products/computers/HP-big2.jpg",
+        "3": "images/content/products/computers/HP-big3.jpg",
+        "4": "images/content/products/computers/HP-big4.jpg",
+        "5": "images/content/products/computers/HP-big5.jpg"
+      },
+      "alt": "HP 2FU9PLR",
+      "price": 68999,
+      "oldprice": 73999,
+      "rating": 3.4,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "INTEL",
+          "valueSelectedSecond": "AMD",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "4GB": false,
+          "8GB": false,
+          "16GB": false,
+          "32GB": true,
+          "gaming": true,
+          "nogaming": false,
+          "opticaldrive": true,
+          "noopticaldrive": false,
+          "sale": true,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "headphoneoutput": true,
+          "backlight": true,
+          "transparentwall": true
+        },
+        "search": {
+          "model": "HP 2FU9PLR",
+          "value": "HP"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "INTEL",
+        "Количество ядер процессора": "4",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "AMD",
+        "Объем видеопамяти": "2",
+        "Объем оперативной памяти": "4",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК HP 2FU9PLR представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 4-ядерной моделью INTEL с трехуровневым кэшем и тактовой частотой 2900 МГц. На HP 2FU9PLR уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 4 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта AMD не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 5,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "100034",
+      "name": "ПК HP TPUDGSB0O",
+      "shortname": "HP TPUDGSB0O",
+      "code": "45484-74",
+      "img": "images/content/products/computers/HP-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/HP-big1.jpg",
+        "2": "images/content/products/computers/HP-big2.jpg",
+        "3": "images/content/products/computers/HP-big3.jpg",
+        "4": "images/content/products/computers/HP-big4.jpg",
+        "5": "images/content/products/computers/HP-big5.jpg"
+      },
+      "alt": "HP TPUDGSB0O",
+      "price": 73999,
+      "oldprice": false,
+      "rating": 2.2,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "AMD",
+          "valueSelectedSecond": "NVIDIA",
+          "valueSelectedThree": "HDD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "4GB": false,
+          "8GB": false,
+          "16GB": false,
+          "32GB": true,
+          "gaming": false,
+          "nogaming": true,
+          "opticaldrive": false,
+          "noopticaldrive": true,
+          "sale": false,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": true,
+          "usa": false,
+          "headphoneoutput": false,
+          "backlight": true,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "HP TPUDGSB0O",
+          "value": "HP"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "AMD",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "NVIDIA",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК HP TPUDGSB0O представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью AMD с трехуровневым кэшем и тактовой частотой 2900 МГц. На HP TPUDGSB0O уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта NVIDIA не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 1,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100035",
+      "name": "ПК ZET GAMING H5PHCIWXA",
+      "shortname": "ZET GAMING H5PHCIWXA",
+      "code": "15097-83",
+      "img": "images/content/products/computers/ZET GAMING-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/ZET GAMING-big1.jpg",
+        "2": "images/content/products/computers/ZET GAMING-big2.jpg",
+        "3": "images/content/products/computers/ZET GAMING-big3.jpg",
+        "4": "images/content/products/computers/ZET GAMING-big4.jpg",
+        "5": "images/content/products/computers/ZET GAMING-big5.jpg"
+      },
+      "alt": "ZET GAMING H5PHCIWXA",
+      "price": 117999,
+      "oldprice": false,
+      "rating": 2.6,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "AMD",
+          "valueSelectedSecond": "NVIDIA",
+          "valueSelectedThree": "HDD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": true,
+          "4GB": true,
+          "8GB": false,
+          "16GB": false,
+          "32GB": false,
+          "gaming": true,
+          "nogaming": false,
+          "opticaldrive": true,
+          "noopticaldrive": false,
+          "sale": false,
+          "new": false,
+          "hit": true,
+          "russia": false,
+          "germany": true,
+          "china": false,
+          "usa": false,
+          "headphoneoutput": false,
+          "backlight": true,
+          "transparentwall": true
+        },
+        "search": {
+          "model": "ZET GAMING H5PHCIWXA",
+          "value": "ZET GAMING"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "AMD",
+        "Количество ядер процессора": "4",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "NVIDIA",
+        "Объем видеопамяти": "2",
+        "Объем оперативной памяти": "4",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК ZET GAMING H5PHCIWXA представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 4-ядерной моделью AMD с трехуровневым кэшем и тактовой частотой 2900 МГц. На ZET GAMING H5PHCIWXA уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 4 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта NVIDIA не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 5,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100036",
+      "name": "ПК HP 74YQMV3L",
+      "shortname": "HP 74YQMV3L",
+      "code": "85106-81",
+      "img": "images/content/products/computers/HP-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/HP-big1.jpg",
+        "2": "images/content/products/computers/HP-big2.jpg",
+        "3": "images/content/products/computers/HP-big3.jpg",
+        "4": "images/content/products/computers/HP-big4.jpg",
+        "5": "images/content/products/computers/HP-big5.jpg"
+      },
+      "alt": "HP 74YQMV3L",
+      "price": 103999,
+      "oldprice": 108999,
+      "rating": 2,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "AMD",
+          "valueSelectedSecond": "AMD",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "4GB": false,
+          "8GB": false,
+          "16GB": true,
+          "32GB": false,
+          "gaming": true,
+          "nogaming": false,
+          "opticaldrive": true,
+          "noopticaldrive": false,
+          "sale": true,
+          "new": false,
+          "hit": true,
+          "russia": false,
+          "germany": true,
+          "china": false,
+          "usa": false,
+          "headphoneoutput": true,
+          "backlight": true,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "HP 74YQMV3L",
+          "value": "HP"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "AMD",
+        "Количество ядер процессора": "4",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "AMD",
+        "Объем видеопамяти": "2",
+        "Объем оперативной памяти": "4",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК HP 74YQMV3L представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 4-ядерной моделью AMD с трехуровневым кэшем и тактовой частотой 2900 МГц. На HP 74YQMV3L уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 4 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта AMD не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 4,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100037",
+      "name": "ПК HP 2CO7KPA3R",
+      "shortname": "HP 2CO7KPA3R",
+      "code": "20417-65",
+      "img": "images/content/products/computers/HP-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/HP-big1.jpg",
+        "2": "images/content/products/computers/HP-big2.jpg",
+        "3": "images/content/products/computers/HP-big3.jpg",
+        "4": "images/content/products/computers/HP-big4.jpg",
+        "5": "images/content/products/computers/HP-big5.jpg"
+      },
+      "alt": "HP 2CO7KPA3R",
+      "price": 51999,
+      "oldprice": 56999,
+      "rating": 1.1,
+      "presence": false,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "AMD",
+          "valueSelectedSecond": "NVIDIA",
+          "valueSelectedThree": "HDD"
+        },
+        "inputs": {
+          "presence": false,
+          "order": false,
+          "4GB": false,
+          "8GB": true,
+          "16GB": false,
+          "32GB": false,
+          "gaming": false,
+          "nogaming": true,
+          "opticaldrive": true,
+          "noopticaldrive": false,
+          "sale": true,
+          "new": false,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "headphoneoutput": false,
+          "backlight": false,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "HP 2CO7KPA3R",
+          "value": "HP"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "AMD",
+        "Количество ядер процессора": "4",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "NVIDIA",
+        "Объем видеопамяти": "2",
+        "Объем оперативной памяти": "4",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК HP 2CO7KPA3R представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 4-ядерной моделью AMD с трехуровневым кэшем и тактовой частотой 2900 МГц. На HP 2CO7KPA3R уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 4 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта NVIDIA не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 1,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100038",
+      "name": "ПК Dexp Jupiter P331",
+      "shortname": "Dexp Jupiter P331",
+      "code": "65955-93",
+      "img": "images/content/products/computers/Dexp-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/Dexp-big1.jpg",
+        "2": "images/content/products/computers/Dexp-big2.jpg",
+        "3": "images/content/products/computers/Dexp-big3.jpg",
+        "4": "images/content/products/computers/Dexp-big4.jpg",
+        "5": "images/content/products/computers/Dexp-big5.jpg"
+      },
+      "alt": "Dexp Jupiter P331",
+      "price": 93999,
+      "oldprice": false,
+      "rating": 4.6,
+      "presence": true,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "INTEL",
+          "valueSelectedSecond": "NVIDIA",
+          "valueSelectedThree": "HDD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "4GB": true,
+          "8GB": false,
+          "16GB": false,
+          "32GB": false,
+          "gaming": true,
+          "nogaming": false,
+          "opticaldrive": false,
+          "noopticaldrive": true,
+          "sale": false,
+          "new": true,
+          "hit": true,
+          "russia": false,
+          "germany": true,
+          "china": false,
+          "usa": false,
+          "headphoneoutput": true,
+          "backlight": false,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "Dexp 7OE3XN7",
+          "value": "Dexp"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "INTEL",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "NVIDIA",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК Dexp 7OE3XN7 представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью INTEL с трехуровневым кэшем и тактовой частотой 2900 МГц. На Dexp 7OE3XN7 уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта NVIDIA не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 2,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100039",
+      "name": "ПК Lenovo W0653HPS",
+      "shortname": "Lenovo W0653HPS",
+      "code": "63312-12",
+      "img": "images/content/products/computers/Lenovo-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/Lenovo-big1.jpg",
+        "2": "images/content/products/computers/Lenovo-big2.jpg",
+        "3": "images/content/products/computers/Lenovo-big3.jpg",
+        "4": "images/content/products/computers/Lenovo-big4.jpg",
+        "5": "images/content/products/computers/Lenovo-big5.jpg"
+      },
+      "alt": "Lenovo W0653HPS",
+      "price": 89999,
+      "oldprice": 94999,
+      "rating": 3,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "INTEL",
+          "valueSelectedSecond": "NVIDIA",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "4GB": false,
+          "8GB": false,
+          "16GB": true,
+          "32GB": false,
+          "gaming": true,
+          "nogaming": false,
+          "opticaldrive": false,
+          "noopticaldrive": true,
+          "sale": true,
+          "new": true,
+          "hit": false,
+          "russia": false,
+          "germany": false,
+          "china": false,
+          "usa": true,
+          "headphoneoutput": true,
+          "backlight": false,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "Lenovo W0653HPS",
+          "value": "Lenovo"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "INTEL",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "NVIDIA",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК Lenovo W0653HPS представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью INTEL с трехуровневым кэшем и тактовой частотой 2900 МГц. На Lenovo W0653HPS уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта NVIDIA не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 2,
+        "Самара, ул. Красноармейская 231": 2,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100040",
+      "name": "ПК HyperPC GY9O3GT",
+      "shortname": "HyperPC GY9O3GT",
+      "code": "72478-62",
+      "img": "images/content/products/computers/HyperPC-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/HyperPC-big1.jpg",
+        "2": "images/content/products/computers/HyperPC-big2.jpg",
+        "3": "images/content/products/computers/HyperPC-big3.jpg",
+        "4": "images/content/products/computers/HyperPC-big4.jpg",
+        "5": "images/content/products/computers/HyperPC-big5.jpg"
+      },
+      "alt": "HyperPC GY9O3GT",
+      "price": 61999,
+      "oldprice": 66999,
+      "rating": 4.1,
+      "presence": true,
+      "sale": true,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "INTEL",
+          "valueSelectedSecond": "AMD",
+          "valueSelectedThree": "HDD"
+        },
+        "inputs": {
+          "presence": true,
+          "order": false,
+          "4GB": false,
+          "8GB": false,
+          "16GB": true,
+          "32GB": false,
+          "gaming": true,
+          "nogaming": false,
+          "opticaldrive": true,
+          "noopticaldrive": false,
+          "sale": true,
+          "new": true,
+          "hit": true,
+          "russia": false,
+          "germany": true,
+          "china": false,
+          "usa": false,
+          "headphoneoutput": false,
+          "backlight": true,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "HyperPC GY9O3GT",
+          "value": "HyperPC"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "INTEL",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "AMD",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК HyperPC GY9O3GT представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью INTEL с трехуровневым кэшем и тактовой частотой 2900 МГц. На HyperPC GY9O3GT уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта AMD не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 0,
+        "Самара, ул. Красноармейская 231": 0,
+        "Самара, ул. Дачная 141": 2,
+        "Самара, ул. Ново-Садовая 366А": 1
+      }
+    },
+    {
+      "id": "100041",
+      "name": "ПК HP OQN56EN8C",
+      "shortname": "HP OQN56EN8C",
+      "code": "89239-69",
+      "img": "images/content/products/computers/HP-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/HP-big1.jpg",
+        "2": "images/content/products/computers/HP-big2.jpg",
+        "3": "images/content/products/computers/HP-big3.jpg",
+        "4": "images/content/products/computers/HP-big4.jpg",
+        "5": "images/content/products/computers/HP-big5.jpg"
+      },
+      "alt": "HP OQN56EN8C",
+      "price": 44999,
+      "oldprice": false,
+      "rating": 1.7,
+      "presence": false,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "INTEL",
+          "valueSelectedSecond": "NVIDIA",
+          "valueSelectedThree": "HDD"
+        },
+        "inputs": {
+          "presence": false,
+          "order": false,
+          "4GB": true,
+          "8GB": false,
+          "16GB": false,
+          "32GB": false,
+          "gaming": true,
+          "nogaming": false,
+          "opticaldrive": false,
+          "noopticaldrive": true,
+          "sale": false,
+          "new": true,
+          "hit": true,
+          "russia": true,
+          "germany": false,
+          "china": false,
+          "usa": false,
+          "headphoneoutput": false,
+          "backlight": false,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "HP OQN56EN8C",
+          "value": "HP"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "INTEL",
+        "Количество ядер процессора": "8",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "NVIDIA",
+        "Объем видеопамяти": "4",
+        "Объем оперативной памяти": "8",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК HP OQN56EN8C представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 8-ядерной моделью INTEL с трехуровневым кэшем и тактовой частотой 2900 МГц. На HP OQN56EN8C уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 8 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта NVIDIA не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 4,
+        "Самара, ул. Дачная 141": 0,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    },
+    {
+      "id": "100042",
+      "name": "ПК Dexp XAFFTMJO9",
+      "shortname": "Dexp XAFFTMJO9",
+      "code": "42941-70",
+      "img": "images/content/products/computers/Dexp-small.jpg",
+      "imgslide": {
+        "1": "images/content/products/computers/Dexp-big1.jpg",
+        "2": "images/content/products/computers/Dexp-big2.jpg",
+        "3": "images/content/products/computers/Dexp-big3.jpg",
+        "4": "images/content/products/computers/Dexp-big4.jpg",
+        "5": "images/content/products/computers/Dexp-big5.jpg"
+      },
+      "alt": "Dexp XAFFTMJO9",
+      "price": 107999,
+      "oldprice": false,
+      "rating": 3.9,
+      "presence": false,
+      "sale": false,
+      "filters": {
+        "selectMenu": {
+          "valueSelectedFirst": "INTEL",
+          "valueSelectedSecond": "NVIDIA",
+          "valueSelectedThree": "SSD"
+        },
+        "inputs": {
+          "presence": false,
+          "order": true,
+          "4GB": false,
+          "8GB": false,
+          "16GB": false,
+          "32GB": true,
+          "gaming": false,
+          "nogaming": true,
+          "opticaldrive": true,
+          "noopticaldrive": false,
+          "sale": false,
+          "new": true,
+          "hit": true,
+          "russia": true,
+          "germany": false,
+          "china": false,
+          "usa": false,
+          "headphoneoutput": false,
+          "backlight": false,
+          "transparentwall": false
+        },
+        "search": {
+          "model": "Dexp XAFFTMJO9",
+          "value": "Dexp"
+        }
+      },
+      "characteristics": {
+        "Модель процессора": "INTEL",
+        "Количество ядер процессора": "4",
+        "Частота процессора": "2900 МГц",
+        "Тип видеокарты": "дискретная",
+        "Модель видеокарты": "NVIDIA",
+        "Объем видеопамяти": "2",
+        "Объем оперативной памяти": "4",
+        "Накопители SSD": "500 ГБ",
+        "Накопители HDD": "1 ТБ",
+        "Блок питания": "Deepcool DN650 650W 80+"
+      },
+      "description": "ПК Dexp XAFFTMJO9 представлен в форм-факторе Tower и имеет классическую расцветку корпуса. Лаконичный дизайн и оптимальная производительность делают данную модель подходящей для любого геймера. Процессор в компьютере представлен 4-ядерной моделью INTEL с трехуровневым кэшем и тактовой частотой 2900 МГц. На Dexp XAFFTMJO9 уже установлена Windows 10 Домашняя, поэтому предварительной настройки системы не потребуется. Быстродействие аппарата, а также стабильность работы в многозадачном режиме обеспечивает 4 ГБ DDR4. Даже в самых напряженных игровых моментах используемая видеокарта NVIDIA не подведет, и вы будете ощущать максимально быстрый отклик всех ваших действий на экране. Для хранения цифровых сведений используется накопитель SSD с памятью 512 ГБ.",
+      "availability": {
+        "Самара, ул. Георгия Димитрова 255": 1,
+        "Самара, ул. Красноармейская 231": 5,
+        "Самара, ул. Дачная 141": 1,
+        "Самара, ул. Ново-Садовая 366А": 0
+      }
+    }
+]
